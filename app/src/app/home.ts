@@ -13,14 +13,16 @@ import { QuizService } from './quiz.service';
       <h2>Materia</h2>
       <div class="choices">
         @for (s of subjects() ?? []; track s.slug) {
-          <button type="button" [class.on]="selected()?.slug === s.slug" (click)="selected.set(s)">{{ s.name }}</button>
+          <button type="button" [class.on]="selected()?.slug === s.slug" (click)="selected.set(s)">
+            {{ s.name }}
+          </button>
         } @empty {
           <p class="muted">Caricamento…</p>
         }
       </div>
     </section>
     <section>
-      <h2>Numero domande</h2>
+      <h2 style="margin-top: 2rem;">Numero domande</h2>
       <div class="choices">
         @for (n of lengths; track n) {
           <button type="button" [class.on]="length() === n" (click)="length.set(n)">{{ n }}</button>
