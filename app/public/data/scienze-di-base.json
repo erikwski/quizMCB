@@ -1,0 +1,920 @@
+{
+  "subject": "Scienze di base",
+  "slug": "scienze-di-base",
+  "sources": [
+    {
+      "file": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "parsed": true,
+      "parsedAt": "2026-10-16",
+      "questionCount": 30
+    },
+    {
+      "file": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "parsed": true,
+      "parsedAt": "2026-10-16",
+      "questionCount": 30
+    }
+  ],
+  "questions": [
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-01",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 1,
+      "text": "Di cosa si occupa l’apparato di Golgi?",
+      "options": {
+        "A": "Impacchettare le sostanze in vescicole di trasporto.",
+        "B": "Trasformare le proteine.",
+        "C": "Trasformare i lipidi.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-02",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 2,
+      "text": "Cosa contengono i lisosomi?",
+      "options": {
+        "A": "Grassi.",
+        "B": "Glucosio.",
+        "C": "Idrogeno.",
+        "D": "Enzimi."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-03",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 3,
+      "text": "Che tipo di membrana hanno i cloroplasti?",
+      "options": {
+        "A": "Singola.",
+        "B": "Doppia.",
+        "C": "Inerte.",
+        "D": "Assente."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-04",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 4,
+      "text": "Cosa contengono i mitocondri?",
+      "options": {
+        "A": "DNA.",
+        "B": "Ribosomi.",
+        "C": "Enzimi.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-05",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 5,
+      "text": "Cosa caratterizza la membrana interna dei mitocondri?",
+      "options": {
+        "A": "Presenza di pori.",
+        "B": "Presenza di villi.",
+        "C": "Presenza di flagelli.",
+        "D": "Presenza di creste."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-06",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 6,
+      "text": "Quale struttura consente il movimento della cellula?",
+      "options": {
+        "A": "Membrana.",
+        "B": "Perossisomi.",
+        "C": "Citoscheletro.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-07",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 7,
+      "text": "I microtubuli cellulari sono formati da:",
+      "options": {
+        "A": "Actina.",
+        "B": "Miosina.",
+        "C": "Cheratina.",
+        "D": "Tubulina."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-08",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 8,
+      "text": "Dove si trovano le ciglia cellulari?",
+      "options": {
+        "A": "Intestino.",
+        "B": "Naso.",
+        "C": "Ovaio.",
+        "D": "Cute."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-09",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 9,
+      "text": "Le giunzioni tipiche delle cellule vegetali sono dette:",
+      "options": {
+        "A": "Comunicanti.",
+        "B": "Plasmodesmi.",
+        "C": "Contigue.",
+        "D": "Adiacenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-10",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 10,
+      "text": "Le giunzioni al livello intestinale sono di tipo:",
+      "options": {
+        "A": "Comunicanti.",
+        "B": "Adiacenti.",
+        "C": "Occludenti.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-11",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 11,
+      "text": "Che tipo di permeabilità consente la membrana plasmatica?",
+      "options": {
+        "A": "Libera.",
+        "B": "Selettiva.",
+        "C": "Aperta.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-12",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 12,
+      "text": "Cosa può ancorarsi alla membrana?",
+      "options": {
+        "A": "Glucidi.",
+        "B": "Proteine.",
+        "C": "Atomi.",
+        "D": "Vitamine."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-13",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 13,
+      "text": "La differenza di concentrazione di molecole è detta?",
+      "options": {
+        "A": "Potenziale.",
+        "B": "Potenza.",
+        "C": "Gradiente.",
+        "D": "Grandezza."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-14",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 14,
+      "text": "Non è un esempio di trasporto passivo:",
+      "options": {
+        "A": "Diffusione semplice.",
+        "B": "Diffusione facilitata.",
+        "C": "Endocitosi.",
+        "D": "Osmosi."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-15",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 15,
+      "text": "Quale molecola passa per osmosi?",
+      "options": {
+        "A": "Grassi.",
+        "B": "Sali minerali.",
+        "C": "Cere.",
+        "D": "Acqua."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-16",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 16,
+      "text": "Con il termine pompa si indica:",
+      "options": {
+        "A": "Proteina di ancoraggio.",
+        "B": "Proteina di sostegno.",
+        "C": "Proteina di difesa.",
+        "D": "Proteina di trasporto."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-17",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 17,
+      "text": "Le proteine che attraversano totalmente la membrana sono dette:",
+      "options": {
+        "A": "Anfipatiche.",
+        "B": "Intrinseche.",
+        "C": "Estrinseche.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-18",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 18,
+      "text": "Le giunzioni comunicanti si trovano soprattutto:",
+      "options": {
+        "A": "Nell’intestino.",
+        "B": "A livello muscolare.",
+        "C": "A livello epatico.",
+        "D": "Nell’occhio."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-19",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 19,
+      "text": "Quale affermazione sul desmosoma è sbagliata?",
+      "options": {
+        "A": "Risulta formato da proteine di adesione.",
+        "B": "Prevede la presenza di filamenti di cheratina.",
+        "C": "Non è presente del materiale filamentoso.",
+        "D": "Sono presenti proteine transmembrana."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-20",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 20,
+      "text": "Di quanti gradi innalza la temperatura dell’acqua la caloria?",
+      "options": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4."
+      },
+      "correct": "A",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-21",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 21,
+      "text": "L’energia immagazzinata pronta a trasformarsi in azione è detta:",
+      "options": {
+        "A": "Meccanica.",
+        "B": "Cinetica.",
+        "C": "Cibernetica.",
+        "D": "Potenziale."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-22",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 22,
+      "text": "Con quale termine si indica il disordine in fisica?",
+      "options": {
+        "A": "Entalpia.",
+        "B": "Entropia.",
+        "C": "Microspia.",
+        "D": "Entalgia."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-23",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 23,
+      "text": "Secondo quale legge della termodinamica l’energia non si crea e non si distrugge?",
+      "options": {
+        "A": "Primo.",
+        "B": "Secondo.",
+        "C": "Terzo.",
+        "D": "Quarto."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-24",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 24,
+      "text": "Una reazione che libera energia è detta?",
+      "options": {
+        "A": "Cicloergonica.",
+        "B": "Esoergonica.",
+        "C": "Endoergonica.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-25",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 25,
+      "text": "L’energia necessaria per far partire una reazione metabolica è detta:",
+      "options": {
+        "A": "Potenziale.",
+        "B": "Di attivazione.",
+        "C": "Di riduzione.",
+        "D": "Cinetica."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-26",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 26,
+      "text": "Cosa può influenzare una reazione enzimatica?",
+      "options": {
+        "A": "Temperatura.",
+        "B": "pH.",
+        "C": "Concentrazione del substrato.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-27",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 27,
+      "text": "Dove si lega l’inibitore competitivo?",
+      "options": {
+        "A": "Sito naturale.",
+        "B": "Sito attivo.",
+        "C": "Sito passivo.",
+        "D": "Sito laterale."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-28",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 28,
+      "text": "Che tipo di proteine possono essere presenti a livello della membrana?",
+      "options": {
+        "A": "Di riconoscimento.",
+        "B": "Recettrici.",
+        "C": "Enzimatiche.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-29",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 29,
+      "text": "Come è la soluzione quando la cellula si rigonfia?",
+      "options": {
+        "A": "Isotonica.",
+        "B": "Ipertonica.",
+        "C": "Ipotonica.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-30",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "number": 30,
+      "text": "Che funzioni svolge il NAD nella respirazione cellulare?",
+      "options": {
+        "A": "Trasporta elettroni.",
+        "B": "Trasporta protoni.",
+        "C": "Trasporta H.",
+        "D": "Trasporta O."
+      },
+      "correct": "A",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-01",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 1,
+      "text": "Quanti legami è in grado di formare il carbonio?",
+      "options": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-02",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 2,
+      "text": "I legami che forma il carbonio sono principalmente di tipo:",
+      "options": {
+        "A": "Ionico.",
+        "B": "Covalente.",
+        "C": "Idrogeno.",
+        "D": "Disolfuro."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-03",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 3,
+      "text": "Quale è il simbolo del gruppo ossidrilico?",
+      "options": {
+        "A": "H.",
+        "B": "O.",
+        "C": "OH.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-04",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 4,
+      "text": "Quale elemento è contenuto nel gruppo solfidrilico?",
+      "options": {
+        "A": "O.",
+        "B": "S.",
+        "C": "N.",
+        "D": "F."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-05",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 5,
+      "text": "Quale elemento è contenuto nel gruppo fosfato?",
+      "options": {
+        "A": "S.",
+        "B": "P.",
+        "C": "K.",
+        "D": "Cu."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-06",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 6,
+      "text": "Quando si parla di isomeri, una molecola è caratterizzata da:",
+      "options": {
+        "A": "Diversa formula molecolare.",
+        "B": "Stessa formula molecolare.",
+        "C": "Stessa disposizione degli atomi.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-07",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 7,
+      "text": "Le reazioni con cui si formano i polimeri sono dette di:",
+      "options": {
+        "A": "Idrolisi.",
+        "B": "Ossidazione.",
+        "C": "Riduzione.",
+        "D": "Condensazione."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-08",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 8,
+      "text": "Le reazioni con cui si scindono i polimeri sono dette di:",
+      "options": {
+        "A": "Idrolisi.",
+        "B": "Ossidazione.",
+        "C": "Riduzione.",
+        "D": "Condensazione."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-09",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 9,
+      "text": "Quale tra questi elementi non è presente nei carboidrati?",
+      "options": {
+        "A": "C.",
+        "B": "Fe.",
+        "C": "H.",
+        "D": "O."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-10",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 10,
+      "text": "Quale molecola si perde nella formazione di un disaccaride.",
+      "options": {
+        "A": "Ossigeno.",
+        "B": "Acqua.",
+        "C": "Azoto.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-11",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 11,
+      "text": "Da quali zuccheri è formato il lattosio?",
+      "options": {
+        "A": "Fruttosio + Glucosio.",
+        "B": "Glucosio + Glucosio.",
+        "C": "Glucosio + Galattosio.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-12",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 12,
+      "text": "Quale tra questi è uno zucchero di origine animale?",
+      "options": {
+        "A": "Saccarosio.",
+        "B": "Amido.",
+        "C": "Maltosio.",
+        "D": "Glicogeno."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-13",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 13,
+      "text": "Da quanti acidi grassi sono formati i trigliceridi?",
+      "options": {
+        "A": "2.",
+        "B": "3.",
+        "C": "4.",
+        "D": "5."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-14",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 14,
+      "text": "Gli acidi grassi con doppi legami sono detti:",
+      "options": {
+        "A": "Saturi.",
+        "B": "Solidi.",
+        "C": "Insaturi.",
+        "D": "Inerti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-15",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 15,
+      "text": "Quali tra questi grassi hanno funzioni ormonali?",
+      "options": {
+        "A": "Saturi.",
+        "B": "Insaturi.",
+        "C": "Cere.",
+        "D": "Steroidi."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-16",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 16,
+      "text": "Quale tra queste sono funzioni delle proteine?",
+      "options": {
+        "A": "Trasporto.",
+        "B": "Sostegno.",
+        "C": "Difesa.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-17",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 17,
+      "text": "Come si chiama il gruppo R delle proteine?",
+      "options": {
+        "A": "Gruppo amminico.",
+        "B": "Gruppo acido.",
+        "C": "Gruppo variabile.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-18",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 18,
+      "text": "La struttura globulare della proteina corrisponde a:",
+      "options": {
+        "A": "Struttura primaria.",
+        "B": "Struttura secondaria.",
+        "C": "Struttura terziaria.",
+        "D": "Struttura quaternaria."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-19",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 19,
+      "text": "Cosa stabilizza la struttura terziaria delle proteine?",
+      "options": {
+        "A": "Legami idrogeno.",
+        "B": "Legami ionici.",
+        "C": "Ponti disolfuro.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-20",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 20,
+      "text": "Da cosa è formato un nucleotide?",
+      "options": {
+        "A": "Base azotata.",
+        "B": "Zucchero pentoso.",
+        "C": "Gruppo fosfato.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-21",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 21,
+      "text": "Quale è lo zucchero del DNA?",
+      "options": {
+        "A": "Ribosio.",
+        "B": "Ramnosio.",
+        "C": "Destrosio.",
+        "D": "Desossiribosio."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-22",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 22,
+      "text": "Quale RNA copia il DNA?",
+      "options": {
+        "A": "tRNA.",
+        "B": "cRNA.",
+        "C": "mRNA.",
+        "D": "rRNA."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-23",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 23,
+      "text": "ATP sta per:",
+      "options": {
+        "A": "Adenositripentoso.",
+        "B": "Adenosidipentoso.",
+        "C": "Adenosintrifosfato.",
+        "D": "Adenosinbifosfato."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-24",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 24,
+      "text": "Quale di questi elementi non è presente nella cellula procariote?",
+      "options": {
+        "A": "Citoplasma.",
+        "B": "Materiale genetico.",
+        "C": "Nucleo.",
+        "D": "Ribosomi."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-25",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 25,
+      "text": "Quale tra questi organismi fa parte dei procarioti?",
+      "options": {
+        "A": "Protisti.",
+        "B": "Batteri.",
+        "C": "Piante.",
+        "D": "Funghi."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-26",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 26,
+      "text": "Cosa può essere presente nella cellula procariote?",
+      "options": {
+        "A": "Pili.",
+        "B": "Parete.",
+        "C": "Capsula.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-27",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 27,
+      "text": "Cosa è presente prettamente nella cellula vegetale?",
+      "options": {
+        "A": "Citoplasma.",
+        "B": "Mitocondri.",
+        "C": "Vacuolo.",
+        "D": "Nucleo."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-28",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 28,
+      "text": "In che modo il DNA è posto nel nucleo cellulare?",
+      "options": {
+        "A": "Creatina.",
+        "B": "Cromatina.",
+        "C": "Carnitina.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-29",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 29,
+      "text": "Come viene detto il reticolo endoplasmatico ruvido?",
+      "options": {
+        "A": "REL.",
+        "B": "RER.",
+        "C": "REC.",
+        "D": "RED."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-30",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "number": 30,
+      "text": "Che funzioni svolge il REL?",
+      "options": {
+        "A": "Sintesi di lipidi.",
+        "B": "Detossificazione di droghe.",
+        "C": "Detossificazione di farmaci.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true
+    }
+  ]
+}

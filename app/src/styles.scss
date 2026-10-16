@@ -1,0 +1,55 @@
+:root {
+  --bg: #f6f7f9;
+  --fg: #1c2024;
+  --muted: #6b7280;
+  --card: #fff;
+  --line: #d7dbe0;
+  --accent: #4f46e5;
+  --ok: #15803d;
+  --ko: #b91c1c;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14161a;
+    --fg: #e8eaed;
+    --muted: #9aa1ab;
+    --card: #1e2127;
+    --line: #333842;
+    --accent: #818cf8;
+    --ok: #4ade80;
+    --ko: #f87171;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 16px/1.5 system-ui, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { margin: 0 0 16px; }
+h2 { font-size: 1.15rem; margin: 20px 0 10px; }
+h3 { font-size: 1rem; margin: 0 0 8px; }
+button { font: inherit; color: inherit; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 10px 16px; cursor: pointer; }
+button:disabled { opacity: .5; cursor: default; }
+button.on { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.choices, nav, .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+nav { justify-content: space-between; margin: 20px 0; }
+header { display: flex; justify-content: space-between; color: var(--muted); }
+progress { width: 100%; height: 8px; accent-color: var(--accent); margin: 6px 0; }
+.options { display: grid; gap: 8px; }
+.option { text-align: left; width: 100%; }
+.option b { display: inline-block; width: 1.5em; }
+.dots { display: flex; flex-wrap: wrap; gap: 6px; }
+.dot { padding: 4px 0; width: 36px; font-size: .85rem; }
+.dot.done { background: color-mix(in srgb, var(--accent) 20%, var(--card)); }
+.dot.cur { border-color: var(--accent); }
+.muted { color: var(--muted); }
+.error { color: var(--ko); }
+.score { font-size: 2.2rem; margin: 8px 0; }
+.score small { font-size: 1rem; color: var(--muted); }
+article { background: var(--card); border: 1px solid var(--line); border-left: 4px solid; border-radius: 8px; padding: 12px 14px; margin-bottom: 10px; }
+article.ok { border-left-color: var(--ok); }
+article.ko { border-left-color: var(--ko); }
+ul { list-style: none; margin: 0; padding: 0; }
+li { padding: 2px 0; }
+li.right { color: var(--ok); font-weight: 600; }
+li.wrong { color: var(--ko); text-decoration: line-through; }
