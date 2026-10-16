@@ -13,6 +13,12 @@
       "parsed": true,
       "parsedAt": "2026-10-16",
       "questionCount": 30
+    },
+    {
+      "file": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "parsed": true,
+      "parsedAt": "2026-10-16",
+      "questionCount": 24
     }
   ],
   "questions": [
@@ -29,7 +35,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il Golgi lavora dopo il reticolo endoplasmatico: pensa a un centro di smistamento. Valuta se ogni opzione è una sua attività.",
+      "explanation": "L'apparato di Golgi modifica proteine e lipidi, li seleziona e li impacchetta in vescicole di trasporto verso la destinazione finale: tutte le opzioni sono corrette."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-02",
@@ -44,7 +52,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "I lisosomi sono lo 'stomaco' della cellula: che molecole servono per digerire?",
+      "explanation": "I lisosomi contengono enzimi idrolitici (a pH acido) che digeriscono macromolecole e organelli danneggiati."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-03",
@@ -59,7 +69,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Cloroplasti e mitocondri hanno un'origine evolutiva simile (teoria endosimbiontica): quante membrane hanno?",
+      "explanation": "I cloroplasti hanno una doppia membrana (esterna e interna), oltre ai tilacoidi interni."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-04",
@@ -74,7 +86,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "I mitocondri hanno un genoma proprio e fanno reazioni: cosa serve per queste attività? Verifica ogni opzione.",
+      "explanation": "I mitocondri contengono DNA mitocondriale, ribosomi propri (simili a quelli procarioti) ed enzimi del ciclo di Krebs e della catena respiratoria."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-05",
@@ -89,7 +103,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "La membrana interna deve avere molta superficie per ospitare la catena respiratoria: come si ottiene?",
+      "explanation": "La membrana interna è ripiegata in creste mitocondriali, che aumentano la superficie per la catena di trasporto degli elettroni e l'ATP sintasi."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-06",
@@ -104,7 +120,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Cerca la rete di filamenti proteici interna alla cellula che dà forma e permette gli spostamenti.",
+      "explanation": "Il citoscheletro (microtubuli, filamenti di actina e intermedi) sostiene la cellula e ne consente il movimento."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-07",
@@ -119,7 +137,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Il nome dei microtubuli ricorda la proteina che li compone: cerca una parola simile.",
+      "explanation": "I microtubuli sono polimeri di tubulina (alfa e beta). Actina forma i microfilamenti, la cheratina i filamenti intermedi."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-08",
@@ -134,7 +154,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Le ciglia muovono muco e particelle: in quale via si trovano per questo scopo?",
+      "explanation": "Le ciglia vibratili rivestono le vie respiratorie (naso, trachea, bronchi), dove spostano il muco con le impurità."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-09",
@@ -149,7 +171,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Le cellule vegetali hanno parete: serve un canale che la attraversi. Il nome contiene 'plasma'.",
+      "explanation": "I plasmodesmi sono canali citoplasmatici che attraversano la parete delle cellule vegetali mettendole in comunicazione. Le giunzioni comunicanti sono invece animali."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-10",
@@ -164,7 +188,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Nell'intestino bisogna evitare che il contenuto passi tra le cellule: la giunzione deve sigillare.",
+      "explanation": "Le giunzioni occludenti (strette) sigillano lo spazio tra le cellule epiteliali intestinali, impedendo il passaggio incontrollato di sostanze."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-11",
@@ -179,7 +205,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "La membrana non lascia passare tutto né niente. Quale aggettivo descrive questa scelta?",
+      "explanation": "La membrana plasmatica ha permeabilità selettiva: lascia passare alcune sostanze e ne blocca altre."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-12",
@@ -194,7 +222,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Cerca la macromolecola che può essere inserita o attaccata ai fosfolipidi, con funzioni di trasporto e recettori.",
+      "explanation": "Le proteine si ancorano o attraversano la membrana (integrali e periferiche). Atomi e vitamine non sono strutture di ancoraggio."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-13",
@@ -209,7 +239,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Come si chiama la 'pendenza' che spinge una sostanza dalla zona più concentrata a quella meno concentrata?",
+      "explanation": "Una differenza di concentrazione tra due zone è un gradiente di concentrazione, che guida la diffusione."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-14",
@@ -224,7 +256,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il trasporto passivo non consuma energia e va secondo gradiente. Quale opzione implica vescicole ed energia?",
+      "explanation": "L'endocitosi è trasporto attivo con vescicole e consumo di ATP. Diffusione semplice, facilitata e osmosi sono passive."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-15",
@@ -239,7 +273,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "L'osmosi è la diffusione di un solvente attraverso una membrana semipermeabile. Qual è il solvente nelle cellule?",
+      "explanation": "L'osmosi è il passaggio di acqua attraverso la membrana verso la zona a maggiore concentrazione di soluti."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-16",
@@ -254,7 +290,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Una pompa fa lavorare sostanze 'contro' il gradiente: che ruolo ha la proteina?",
+      "explanation": "Le pompe (es. Na+/K+ ATPasi) sono proteine di trasporto che usano ATP per spostare ioni contro gradiente."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-17",
@@ -269,7 +307,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il nome di queste proteine rimanda a 'dentro'. Le altre stanno solo in superficie.",
+      "explanation": "Le proteine intrinseche (integrali, transmembrana) attraversano completamente il doppio strato; le estrinseche sono periferiche."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-18",
@@ -284,7 +324,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Le giunzioni comunicanti permettono di coordinare una contrazione: dove serve sincronia?",
+      "explanation": "Le giunzioni comunicanti (gap) sono tipiche del muscolo cardiaco e liscio, dove permettono il passaggio di ioni e la contrazione sincrona."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-19",
@@ -299,7 +341,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Cerca l'affermazione falsa: il desmosoma è un punto di forte adesione, serve un 'cemento' interno.",
+      "explanation": "Il desmosoma ha proteine di adesione transmembrana e placche che ancorano filamenti intermedi di cheratina: la presenza di filamenti c'è, quindi C è errata."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-20",
@@ -314,7 +358,9 @@
       },
       "correct": "A",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "La caloria è definita rispetto a un grammo d'acqua: quanto si scalda?",
+      "explanation": "Una caloria è l'energia che serve per innalzare di 1 grado Celsius 1 grammo d'acqua."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-21",
@@ -329,7 +375,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Pensa a un sasso fermo in alto: ha energia 'in attesa'. Come la chiami?",
+      "explanation": "L'energia potenziale è immagazzinata e pronta a trasformarsi in energia cinetica (di movimento)."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-22",
@@ -344,7 +392,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Non confondere con l'entalpia (contenuto di calore): cerca il termine che misura il disordine di un sistema.",
+      "explanation": "L'entropia misura il grado di disordine di un sistema; secondo il secondo principio tende ad aumentare."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-23",
@@ -359,7 +409,9 @@
       },
       "correct": "A",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Si tratta del principio di conservazione dell'energia: è il primo o l'ultimo che si studia?",
+      "explanation": "Il primo principio della termodinamica afferma che l'energia non si crea né si distrugge ma si trasforma."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-24",
@@ -374,7 +426,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "'Eso' indica fuori, 'endo' dentro. Una reazione che libera energia la manda verso l'esterno.",
+      "explanation": "Le reazioni esoergoniche liberano energia (ΔG negativo); quelle endoergoniche ne richiedono."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-25",
@@ -389,7 +443,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Anche una reazione favorevole ha bisogno di una 'spinta' iniziale per cominciare.",
+      "explanation": "L'energia di attivazione è la barriera energetica da superare perché la reazione avvenga; gli enzimi la abbassano."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-26",
@@ -404,7 +460,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Gli enzimi sono molto sensibili all'ambiente e alla quantità di materia prima. Valuta ogni opzione.",
+      "explanation": "Temperatura, pH e concentrazione di substrato (e di enzima) influenzano la velocità di una reazione enzimatica."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-27",
@@ -419,7 +477,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "L'inibitore competitivo 'compete' con il substrato: dove cerca di stare?",
+      "explanation": "L'inibitore competitivo assomiglia al substrato e si lega al sito attivo, impedendone l'accesso."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-28",
@@ -434,7 +494,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Le proteine di membrana svolgono molti ruoli. Controlla se ciascuna opzione è una funzione possibile.",
+      "explanation": "Nella membrana ci sono proteine di riconoscimento, recettori ed enzimi, oltre a canali e pompe."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-29",
@@ -449,7 +511,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "La cellula si gonfia perché entra acqua: com'è la concentrazione dei soluti fuori rispetto a dentro?",
+      "explanation": "In una soluzione ipotonica (meno soluti della cellula) entra acqua per osmosi e la cellula si rigonfia; in una ipertonica si raggrinzisce."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-30",
@@ -464,7 +528,9 @@
       },
       "correct": "A",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "NAD è un coenzima della respirazione: cosa cede alla catena respiratoria? Attenzione alla differenza tra elettroni e H.",
+      "explanation": "Il NAD è un trasportatore di elettroni (con un protone si riduce a NADH) verso la catena respiratoria."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-01",
@@ -479,7 +545,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Conta gli elettroni nel guscio esterno del carbonio: quanti ne mancano per completare l'ottetto?",
+      "explanation": "Il carbonio ha 4 elettroni di valenza e forma 4 legami, ed è la base delle molecole organiche."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-02",
@@ -494,7 +562,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il carbonio condivide elettroni con altri atomi: quale legame prevede la condivisione?",
+      "explanation": "Il carbonio forma legami covalenti, per condivisione di coppie di elettroni."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-03",
@@ -509,7 +579,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il gruppo ossidrilico contiene ossigeno e idrogeno insieme, non separati.",
+      "explanation": "Il gruppo ossidrilico è -OH ed è tipico di alcoli e zuccheri."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-04",
@@ -524,7 +596,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "'Solfidrilico' contiene la radice 'solf-': qual è il simbolo dello zolfo?",
+      "explanation": "Il gruppo solfidrilico (-SH) contiene zolfo (S); due gruppi -SH formano i ponti disolfuro."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-05",
@@ -539,7 +613,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Fosfato: pensa al fosforo, non al potassio.",
+      "explanation": "Il gruppo fosfato (PO4 3-) contiene fosforo (P), presente in ATP e acidi nucleici."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-06",
@@ -554,7 +630,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Gli isomeri sono come anagrammi: stesse lettere, parole diverse.",
+      "explanation": "Gli isomeri hanno la stessa formula molecolare ma una diversa disposizione degli atomi (es. glucosio e fruttosio)."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-07",
@@ -569,7 +647,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Per costruire un polimero si uniscono monomeri e si libera acqua: come si chiama la reazione?",
+      "explanation": "La condensazione (sintesi per disidratazione) lega i monomeri liberando una molecola d'acqua."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-08",
@@ -584,7 +664,9 @@
       },
       "correct": "A",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "È la reazione contraria alla condensazione: 'idro' ricorda l'acqua usata per rompere il legame.",
+      "explanation": "L'idrolisi spezza i polimeri aggiungendo acqua, ad esempio nella digestione."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-09",
@@ -599,7 +681,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "I carboidrati sono 'idrati di carbonio': quali elementi contengono? Cerca il metallo.",
+      "explanation": "I carboidrati sono formati da C, H e O; il ferro (Fe) non è presente."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-10",
@@ -614,7 +698,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Il legame tra due monosaccaridi si forma con una condensazione: cosa viene liberato?",
+      "explanation": "Nella formazione di un disaccaride si perde una molecola d'acqua (legame glicosidico)."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-11",
@@ -629,7 +715,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Il nome 'lattosio' richiama il latte: è formato da glucosio e un altro zucchero. Quale?",
+      "explanation": "Il lattosio è formato da glucosio + galattosio. Saccarosio = glucosio + fruttosio, maltosio = glucosio + glucosio."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-12",
@@ -644,7 +732,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Tra le opzioni, uno zucchero si accumula nel fegato e nei muscoli degli animali.",
+      "explanation": "Il glicogeno è la riserva di glucosio degli animali; amido e saccarosio sono vegetali, il maltosio deriva dalla degradazione dell'amido."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-13",
@@ -659,7 +749,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Un trigliceride ha il prefisso 'tri-': conta le catene legate al glicerolo.",
+      "explanation": "I trigliceridi sono formati da glicerolo e 3 acidi grassi."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-14",
@@ -674,7 +766,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Un acido grasso con doppi legami non è 'pieno' di idrogeni.",
+      "explanation": "Gli acidi grassi con doppi legami sono insaturi (liquidi, come gli oli); i saturi hanno solo legami singoli."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-15",
@@ -689,7 +783,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Cerca i lipidi derivati dal colesterolo, come testosterone e cortisolo.",
+      "explanation": "Gli steroidi (es. colesterolo, ormoni sessuali, cortisolo) hanno funzioni ormonali."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-16",
@@ -704,7 +800,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Le proteine fanno moltissimo nel corpo: controlla se ogni opzione è una loro funzione.",
+      "explanation": "Le proteine svolgono funzioni di trasporto (emoglobina), sostegno (collagene), difesa (anticorpi), catalisi e altre."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-17",
@@ -719,7 +817,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Tutti gli amminoacidi hanno amminico e carbossilico uguali: cosa cambia da uno all'altro?",
+      "explanation": "Il gruppo R è la catena laterale variabile che differenzia i 20 amminoacidi."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-18",
@@ -734,7 +834,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "La forma tridimensionale ripiegata e globulare è il livello dopo le eliche e i foglietti.",
+      "explanation": "La struttura terziaria è il ripiegamento tridimensionale globale (globulare) di una catena polipeptidica."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-19",
@@ -749,7 +851,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Più tipi di legame e interazione stabilizzano il ripiegamento: valuta se tutti contribuiscono.",
+      "explanation": "La struttura terziaria è stabilizzata da legami idrogeno, ionici, interazioni idrofobiche e ponti disolfuro."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-20",
@@ -764,7 +868,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Un nucleotide ha tre componenti: quali sono? Controlla se sono tutte tra le opzioni.",
+      "explanation": "Un nucleotide è formato da base azotata, zucchero pentoso e gruppo fosfato."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-21",
@@ -779,7 +885,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-fuchsia",
-      "verified": true
+      "verified": true,
+      "hint": "Il DNA è l'acido 'desossiribonucleico': il nome contiene lo zucchero.",
+      "explanation": "Lo zucchero del DNA è il desossiribosio (privo di un ossigeno rispetto al ribosio dell'RNA)."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-22",
@@ -794,7 +902,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Quale RNA porta il messaggio dal nucleo al ribosoma?",
+      "explanation": "L'mRNA (messaggero) copia il DNA nella trascrizione. tRNA trasporta amminoacidi, rRNA forma i ribosomi."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-23",
@@ -809,7 +919,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "ATP = adenosina + quanti gruppi fosfato? Il 'tri' c'è anche nella sigla.",
+      "explanation": "ATP significa adenosina trifosfato: adenina, ribosio e 3 gruppi fosfato."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-24",
@@ -824,7 +936,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "I procarioti hanno il DNA libero nel citoplasma: cosa manca loro?",
+      "explanation": "Le cellule procarioti non hanno nucleo delimitato da membrana: il DNA è nel nucleoide."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-25",
@@ -839,7 +953,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "I procarioti sono organismi unicellulari senza nucleo: quale gruppo fa parte di essi?",
+      "explanation": "I batteri (insieme agli archeobatteri) sono procarioti; protisti, piante e funghi sono eucarioti."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-26",
@@ -854,7 +970,9 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Quali strutture esterne può avere un batterio? Valuta tutte le opzioni.",
+      "explanation": "Le cellule procarioti possono avere pili, parete e capsula."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-27",
@@ -869,7 +987,9 @@
       },
       "correct": "C",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Cerca il grande organello pieno d'acqua che mantiene la turgidità delle cellule vegetali.",
+      "explanation": "Il vacuolo centrale è tipico delle cellule vegetali. Citoplasma, mitocondri e nucleo sono presenti anche negli animali."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-28",
@@ -884,7 +1004,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il DNA nel nucleo è associato a proteine istoniche in una struttura 'colorata'.",
+      "explanation": "Il DNA nel nucleo è in forma di cromatina (DNA + istoni), che si condensa in cromosomi durante la divisione."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-29",
@@ -899,7 +1021,9 @@
       },
       "correct": "B",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il reticolo ruvido ha i ribosomi: le sigle partono da RE + R di 'ruvido'.",
+      "explanation": "RER sta per reticolo endoplasmatico ruvido (ribosomi sulla superficie); REL è il liscio."
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-30",
@@ -914,7 +1038,417 @@
       },
       "correct": "D",
       "answerSource": "highlight-orange",
-      "verified": true
+      "verified": true,
+      "hint": "Il REL non ha ribosomi e lavora sui lipidi e sulle sostanze estranee. Valuta ogni opzione.",
+      "explanation": "Il reticolo endoplasmatico liscio sintetizza lipidi e detossifica farmaci e droghe, soprattutto nel fegato."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-01",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 1,
+      "text": "Dove avviene la glicolisi?",
+      "options": {
+        "A": "Nel nucleo.",
+        "B": "Nel citosol.",
+        "C": "Nei mitocondri.",
+        "D": "Nel reticolo endoplasmatico."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Pensa al primo passo della degradazione del glucosio: serve già un organello o basta l'ambiente acquoso della cellula?",
+      "explanation": "La glicolisi è la prima fase della degradazione del glucosio e si svolge interamente nel citoplasma (citosol), senza bisogno di organelli e anche senza ossigeno."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-02",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 2,
+      "text": "Quale affermazione sulla glicolisi è errata?",
+      "options": {
+        "A": "È la prima fase della degradazione del glucosio.",
+        "B": "Produce molti ATP.",
+        "C": "Può avvenire in assenza di ossigeno.",
+        "D": "Produce piruvato."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Cerca l'affermazione falsa: confronta l'ATP investito all'inizio con quello prodotto alla fine. Il bilancio è davvero così generoso?",
+      "explanation": "La glicolisi dà un guadagno netto di soli 2 ATP per molecola di glucosio (si producono 4 ATP ma se ne investono 2). Produce anche 2 piruvato e 2 NADH."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-03",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 3,
+      "text": "Quale molecola è fondamentale per poter procedere con il ciclo di Krebs?",
+      "options": {
+        "A": "Lattato.",
+        "B": "Etanolo.",
+        "C": "Acetil Coenzima A.",
+        "D": "Glucosio-6-fosfato."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Il piruvato della glicolisi non entra tal quale nel ciclo: viene prima 'attivato' legandosi a un coenzima.",
+      "explanation": "Il piruvato, entrato nei mitocondri, è decarbossilato e legato al coenzima A formando Acetil-CoA, che cede il gruppo acetile all'ossalacetato per iniziare il ciclo di Krebs."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-04",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 4,
+      "text": "Dove avviene il ciclo di Krebs?",
+      "options": {
+        "A": "Nel nucleo.",
+        "B": "Nel citosol.",
+        "C": "Nei mitocondri.",
+        "D": "Nei lisosomi."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Quale organello è chiamato 'centrale energetica' della cellula?",
+      "explanation": "Il ciclo di Krebs si svolge nei mitocondri, più precisamente nella matrice mitocondriale."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-05",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 5,
+      "text": "Quale affermazione sul Ciclo di Krebs è errata?",
+      "options": {
+        "A": "Produce anidride carbonica.",
+        "B": "Produce NADH e FADH2.",
+        "C": "Avviene nella matrice mitocondriale.",
+        "D": "Porta alla formazione di acqua."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Chiediti dove, nella respirazione, l'ossigeno viene finalmente 'consumato': è già nel ciclo di Krebs?",
+      "explanation": "Il ciclo di Krebs produce CO2, NADH, FADH2 e ATP/GTP. L'acqua si forma alla fine della catena di trasporto degli elettroni, quando l'ossigeno accetta gli elettroni e si combina con H+."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-06",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 6,
+      "text": "Quali trasportatori sono coinvolti nel ciclo di Krebs?",
+      "options": {
+        "A": "NAD e FAD.",
+        "B": "ATP e ADP.",
+        "C": "FAD e ADP.",
+        "D": "Emoglobina e mioglobina."
+      },
+      "correct": "A",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Cerca i coenzimi che raccolgono elettroni e protoni, trasformandosi in forme 'ridotte' (indicate con la H).",
+      "explanation": "NAD e FAD accettano elettroni e protoni diventando NADH e FADH2, che porteranno gli elettroni alla catena respiratoria."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-07",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 7,
+      "text": "In quale fase della respirazione cellulare si producono molte molecole di ATP?",
+      "options": {
+        "A": "Glicolisi.",
+        "B": "Trasporto di elettroni (fosforilazione ossidativa).",
+        "C": "Ciclo di Krebs.",
+        "D": "Fermentazione."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Glicolisi e Krebs producono pochissimo ATP direttamente: dove si 'incassa' l'energia dei NADH e FADH2?",
+      "explanation": "La catena di trasporto degli elettroni e la chemiosmosi generano la grande maggioranza dell'ATP cellulare (circa 26-28 su 30-32 totali)."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-08",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 8,
+      "text": "Quali ioni vengono trasportati per andare a formare ATP?",
+      "options": {
+        "A": "Na",
+        "B": "H",
+        "C": "K",
+        "D": "Ca"
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "La catena respiratoria pompa questi ioni nello spazio intermembrana creando un gradiente di acidità (pH).",
+      "explanation": "I protoni (H+) pompati nello spazio intermembrana creano un gradiente; rifluendo attraverso l'ATP sintasi forniscono l'energia per sintetizzare ATP (chemiosmosi)."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-09",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 9,
+      "text": "L'accettore finale degli elettroni nel ciclo di Krebs / respirazione è:",
+      "options": {
+        "A": "C",
+        "B": "N",
+        "C": "H",
+        "D": "O"
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Perché respiriamo? Quale gas dell'aria serve alla catena respiratoria per non bloccarsi?",
+      "explanation": "L'ossigeno molecolare è l'accettore finale degli elettroni nella catena respiratoria: accetta gli elettroni e H+ formando acqua. Senza ossigeno la catena si ferma."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-10",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 10,
+      "text": "I prodotti di scarto del ciclo di Krebs sono:",
+      "options": {
+        "A": "Acqua e anidride carbonica.",
+        "B": "Ossigeno e glucosio.",
+        "C": "Etanolo e lattato.",
+        "D": "Azoto e ammoniaca."
+      },
+      "correct": "A",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Il carbonio dell'Acetil-CoA deve pur uscire dal ciclo: sotto quale forma gassosa? Poi scarta le opzioni che nominano reagenti o prodotti di altri processi.",
+      "explanation": "Lo scarto diretto del ciclo è l'anidride carbonica (l'acqua si forma poi nella catena respiratoria, ma nella respirazione complessiva sono questi i due prodotti di scarto). Le altre opzioni sono sostanze di partenza o prodotti di altri processi."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-11",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 11,
+      "text": "La sintesi della ATP è detta:",
+      "options": {
+        "A": "Fosforilazione.",
+        "B": "Idrolisi.",
+        "C": "Glicolisi.",
+        "D": "Decarbossilazione."
+      },
+      "correct": "A",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "ATP si ottiene aggiungendo un gruppo fosfato all'ADP: come si chiama l'aggiunta di un fosfato?",
+      "explanation": "La sintesi di ATP è una fosforilazione dell'ADP: può essere a livello del substrato (glicolisi, Krebs) oppure ossidativa (catena respiratoria). L'idrolisi è il processo inverso."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-12",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 12,
+      "text": "Cosa può bloccare il processo di respirazione?",
+      "options": {
+        "A": "Cianuro.",
+        "B": "Monossido di carbonio.",
+        "C": "Rotenone.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Valuta ogni sostanza: agisce sulla catena di trasporto degli elettroni? Se sì per tutte, sai la risposta.",
+      "explanation": "Cianuro e monossido di carbonio bloccano il complesso IV (citocromo c ossidasi), il rotenone il complesso I: tutti inibiscono la catena respiratoria."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-13",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 13,
+      "text": "Quante molecole di ATP si producono in totale dalla respirazione cellulare?",
+      "options": {
+        "A": "2",
+        "B": "32",
+        "C": "64",
+        "D": "100"
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "I 2 ATP della glicolisi sono pochi, il grosso arriva dalla fosforilazione ossidativa. Il totale è nell'ordine delle decine, non delle centinaia.",
+      "explanation": "Per molecola di glucosio il rendimento netto stimato è circa 30-32 ATP (valori storici fino a 36-38). 2 ATP sono quelli della sola glicolisi."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-14",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 14,
+      "text": "L'etanolo è prodotto mediante:",
+      "options": {
+        "A": "Fermentazione lattica.",
+        "B": "Fermentazione alcolica.",
+        "C": "Respirazione aerobica.",
+        "D": "Beta-ossidazione."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Il nome del processo ricorda il prodotto finale: l'etanolo è un alcol.",
+      "explanation": "Nella fermentazione alcolica (lieviti) il piruvato è decarbossilato ad acetaldeide e ridotto a etanolo, con rilascio di CO2 e rigenerazione di NAD+."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-15",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 15,
+      "text": "Rappresenta un esempio di reazione anabolica:",
+      "options": {
+        "A": "Fotosintesi.",
+        "B": "Sintesi proteica.",
+        "C": "Sintesi di ormoni.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Anabolismo = 'costruire'. Verifica se ciascuna opzione costruisce molecole complesse da molecole semplici.",
+      "explanation": "L'anabolismo comprende i processi di sintesi che consumano energia: fotosintesi (zuccheri da CO2), sintesi proteica e sintesi ormonale sono tutti anabolici."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-16",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 16,
+      "text": "Rappresenta un esempio di reazione catabolica:",
+      "options": {
+        "A": "Fotosintesi.",
+        "B": "Sintesi proteica.",
+        "C": "Digestione.",
+        "D": "Replicazione del DNA."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Catabolismo = 'demolire'. Quale opzione scompone molecole grandi in piccole?",
+      "explanation": "La digestione scompone macromolecole in unità semplici rilasciando energia: è catabolismo. Le altre opzioni costruiscono molecole complesse."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-17",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 17,
+      "text": "Quale tra questi rappresenta il corretto livello di organizzazione gerarchica?",
+      "options": {
+        "A": "Cellule-atomi-molecole-tessuti-organi.",
+        "B": "Molecole-atomi-tessuti-cellule-organi.",
+        "C": "Atomi-molecole-cellule-tessuti-organi-apparati e sistemi.",
+        "D": "Atomi-cellule-molecole-organi-tessuti-apparati."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Parti dal più piccolo: i mattoni della materia, poi le loro unioni, poi l'unità della vita...",
+      "explanation": "L'ordine corretto è atomi, molecole, cellule, tessuti, organi, apparati e sistemi, organismo: ogni livello è formato da quello precedente."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-18",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 18,
+      "text": "Quale muscolo separa la cavità toracica da quella addominale?",
+      "options": {
+        "A": "Bicipite.",
+        "B": "Gran dorsale.",
+        "C": "Diaframma.",
+        "D": "Trapezio."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "È il principale muscolo della respirazione, a forma di cupola sotto i polmoni.",
+      "explanation": "Il diaframma è il muscolo che separa torace e addome ed è il principale muscolo inspiratorio."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-19",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 19,
+      "text": "Quale piano taglia il corpo umano in parte anteriore e posteriore?",
+      "options": {
+        "A": "Sagittale.",
+        "B": "Frontale (o coronale).",
+        "C": "Trasverso.",
+        "D": "Sagittale mediano."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Immagina di tagliare il corpo come una 'fronte': pancia da una parte, schiena dall'altra.",
+      "explanation": "Il piano frontale (coronale) divide il corpo in anteriore (ventrale) e posteriore (dorsale). Il sagittale divide in destra e sinistra, il trasverso in alto e basso."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-20",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 20,
+      "text": "In un apparato:",
+      "options": {
+        "A": "Le cellule sono tutte uguali.",
+        "B": "I tessuti sono sempre dello stesso tipo.",
+        "C": "Gli organi sono deputati alle stesse funzioni.",
+        "D": "Gli organi non cooperano tra loro."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Un apparato è un insieme di organi: cosa hanno in comune per formarlo?",
+      "explanation": "Un apparato è un insieme di organi, di tessuti diversi, che cooperano per una funzione comune (es. apparato digerente). Per questo A, B e D sono errate."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-21",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 21,
+      "text": "Quale apparato/sistema è deputato alla funzione immunitaria?",
+      "options": {
+        "A": "Tegumentario.",
+        "B": "Linfatico.",
+        "C": "Scheletrico.",
+        "D": "Endocrino."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Pensa a dove si trovano linfonodi, timo e milza.",
+      "explanation": "Il sistema linfatico, con linfonodi, timo, milza e linfociti, è deputato alle difese immunitarie."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-22",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 22,
+      "text": "Quale apparato/sistema è deputato alla funzione di nutrimento delle cellule?",
+      "options": {
+        "A": "Nervoso.",
+        "B": "Circolatorio.",
+        "C": "Tegumentario.",
+        "D": "Scheletrico."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Chi trasporta nutrienti e gas a tutte le cellule del corpo?",
+      "explanation": "L'apparato circolatorio trasporta ossigeno, nutrienti e metaboliti in tutto il corpo, nutrendo le cellule."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-23",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 23,
+      "text": "Quali cellule staminali sono in grado di differenziarsi in ogni tipologia di linea cellulare?",
+      "options": {
+        "A": "Multipotenti.",
+        "B": "Unipotenti.",
+        "C": "Totipotenti.",
+        "D": "Adulte."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Il prefisso indica 'tutto': pensa allo zigote e alle prime divisioni dell'embrione.",
+      "explanation": "Le cellule totipotenti (zigote e primi blastomeri) danno origine a tutti i tipi cellulari, compresi i tessuti extra-embrionali. Multipotenti e unipotenti sono più limitate."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-24",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "number": 24,
+      "text": "Quante tipologie di tessuto sono comunemente analizzati?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Epiteliale, connettivo... aggiungi i tessuti di muscoli e nervi: quanti sono in tutto?",
+      "explanation": "I quattro tessuti fondamentali sono epiteliale, connettivo, muscolare e nervoso."
     }
   ]
 }

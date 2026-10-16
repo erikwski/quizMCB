@@ -12,6 +12,8 @@ export interface RawQuestion {
   correct: string;
   answerSource: string;
   verified: boolean;
+  hint?: string;
+  explanation?: string;
 }
 
 export interface SubjectData {
@@ -30,6 +32,8 @@ export interface QuizItem {
   text: string;
   options: QuizOption[];
   verified: boolean;
+  hint?: string;
+  explanation?: string;
 }
 
 export type QuizLength = 30 | 60;

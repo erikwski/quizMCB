@@ -2,10 +2,11 @@
 
 Usage:
   python -I merge_json.py --subject "Scienze di base" --extract out.json \
-      [--answers answers.json] [--data-dir app/public/data] [--force]
+      [--answers answers.json] [--notes notes.json] [--data-dir app/public/data] [--force]
 
 answers.json: {"<question number>": "A".."D"} for questions with no highlight
 (answered by Claude -> answerSource "claude", verified false).
+notes.json: {"<question number>": {"hint": "...", "explanation": "..."}} (optional, written by Claude).
 Idempotent: question ids are deterministic; a source already `parsed` is skipped unless --force.
 """
 import argparse
@@ -40,13 +41,15 @@ def main():
     ap.add_argument("--subject", required=True)
     ap.add_argument("--extract", required=True)
     ap.add_argument("--answers")
+    ap.add_argument("--notes")
     ap.add_argument("--data-dir", default="app/public/data")
     ap.add_argument("--force", action="store_true")
     a = ap.parse_args()
 
-    with open(a.extract, encoding="utf-8") as f:
+    with open(a.extract, encoding="utf-8-sig") as f:
         ext = json.load(f)
     answers = load(a.answers, {}) if a.answers else {}
+    notes = load(a.notes, {}) if a.notes else {}
 
     slug = slugify(a.subject)
     src_file = ext["file"].replace("\\", "/")
@@ -70,6 +73,7 @@ def main():
         if correct not in q["options"] or len(q["options"]) != 4:
             problems.append(f"domanda {q['number']}: risposta/opzioni non valide")
             continue
+        extra = notes.get(str(q["number"]), {})
         new.append({
             "id": f"{slug}-{src_slug}-{q['number']:02d}",
             "source": src_file,
@@ -79,12 +83,18 @@ def main():
             "correct": correct,
             "answerSource": source,
             "verified": verified,
+            **{k: extra[k] for k in ("hint", "explanation") if extra.get(k)},
         })
     if problems or ext["anomalies"]:
         print("ERRORI (nessuna scrittura):", *problems, *ext["anomalies"], sep="\n  ")
         sys.exit(1)
 
     ids = {q["id"] for q in new}
+    old = {q["id"]: q for q in data["questions"]}
+    for q in new:  # keep hint/explanation of a previous run when not re-supplied
+        for k in ("hint", "explanation"):
+            if k not in q and k in old.get(q["id"], {}):
+                q[k] = old[q["id"]][k]
     data["questions"] = [q for q in data["questions"] if q["id"] not in ids] + new
     data["sources"] = [s for s in data["sources"] if s["file"] != src_file] + [{
         "file": src_file, "parsed": True,

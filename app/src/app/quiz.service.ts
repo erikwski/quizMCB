@@ -23,6 +23,8 @@ export function buildQuiz(
       id: q.id,
       text: q.text,
       verified: q.verified,
+      hint: q.hint,
+      explanation: q.explanation,
       options: shuffle(
         Object.entries(q.options).map(([key, text]) => ({ text, correct: key === q.correct })),
         rng,

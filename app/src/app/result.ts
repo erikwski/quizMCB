@@ -30,6 +30,9 @@ import { QuizService } from './quiz.service';
         @if (quiz.answers()[i] === null) {
           <p class="muted">Nessuna risposta</p>
         }
+        @if (q.explanation) {
+          <p class="explanation"><b>Spiegazione:</b> {{ q.explanation }}</p>
+        }
       </article>
     }
   `,

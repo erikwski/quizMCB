@@ -19,6 +19,13 @@ import { QuizService } from './quiz.service';
           </button>
         }
       </div>
+      @if (q.hint) {
+        @if (hintShown()) {
+          <p class="hint"><b>Suggerimento:</b> {{ q.hint }}</p>
+        } @else {
+          <button type="button" class="hint-btn" (click)="showHint(q.id)">Mostra suggerimento</button>
+        }
+      }
       <nav>
         <button type="button" [disabled]="index() === 0" (click)="index.set(index() - 1)">Indietro</button>
         @if (index() < quiz.items().length - 1) {
@@ -42,6 +49,15 @@ export class Quiz {
   protected readonly letters = ['A', 'B', 'C', 'D', 'E', 'F'];
   protected readonly index = signal(0);
   protected readonly item = computed(() => this.quiz.items()[this.index()]);
+  private readonly shownHints = signal<ReadonlySet<string>>(new Set());
+  protected readonly hintShown = computed(() => {
+    const id = this.item()?.id;
+    return id !== undefined && this.shownHints().has(id);
+  });
+
+  protected showHint(id: string): void {
+    this.shownHints.update((s) => new Set(s).add(id));
+  }
 
   constructor() {
     if (!this.quiz.active()) this.router.navigateByUrl('/');
