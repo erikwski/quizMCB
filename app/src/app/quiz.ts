@@ -14,20 +14,29 @@ import { QuizService } from './quiz.service';
       <h2>{{ q.text }}</h2>
       <div class="options">
         @for (o of q.options; track $index) {
-          <button type="button" class="option" [class.on]="quiz.answers()[index()] === $index" (click)="quiz.answer(index(), $index)">
+          <button
+            type="button"
+            class="option"
+            [class.on]="quiz.answers()[index()] === $index"
+            (click)="quiz.answer(index(), $index)"
+          >
             <b>{{ letters[$index] }}</b> {{ o.text }}
           </button>
         }
       </div>
       @if (q.hint) {
         @if (hintShown()) {
-          <p class="hint"><b>Suggerimento:</b> {{ q.hint }}</p>
+          <p class="hint" style="margin-top: 1rem;"><b>Suggerimento:</b> {{ q.hint }}</p>
         } @else {
-          <button type="button" class="hint-btn" (click)="showHint(q.id)">Mostra suggerimento</button>
+          <button type="button" class="hint-btn" (click)="showHint(q.id)" style="margin-top: 1rem;">
+            Mostra suggerimento
+          </button>
         }
       }
       <nav>
-        <button type="button" [disabled]="index() === 0" (click)="index.set(index() - 1)">Indietro</button>
+        <button type="button" [disabled]="index() === 0" (click)="index.set(index() - 1)">
+          Indietro
+        </button>
         @if (index() < quiz.items().length - 1) {
           <button type="button" class="primary" (click)="index.set(index() + 1)">Avanti</button>
         } @else {
@@ -36,7 +45,16 @@ import { QuizService } from './quiz.service';
       </nav>
       <div class="dots">
         @for (a of quiz.answers(); track $index) {
-          <button type="button" class="dot" [class.done]="a !== null" [class.cur]="$index === index()" (click)="index.set($index)" [attr.aria-label]="'Domanda ' + ($index + 1)">{{ $index + 1 }}</button>
+          <button
+            type="button"
+            class="dot"
+            [class.done]="a !== null"
+            [class.cur]="$index === index()"
+            (click)="index.set($index)"
+            [attr.aria-label]="'Domanda ' + ($index + 1)"
+          >
+            {{ $index + 1 }}
+          </button>
         }
       </div>
     }
