@@ -19,6 +19,12 @@
       "parsed": true,
       "parsedAt": "2026-10-16",
       "questionCount": 24
+    },
+    {
+      "file": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "parsed": true,
+      "parsedAt": "2026-10-18",
+      "questionCount": 6
     }
   ],
   "questions": [
@@ -1449,6 +1455,108 @@
       "verified": true,
       "hint": "Epiteliale, connettivo... aggiungi i tessuti di muscoli e nervi: quanti sono in tutto?",
       "explanation": "I quattro tessuti fondamentali sono epiteliale, connettivo, muscolare e nervoso."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-01",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "number": 1,
+      "text": "Quale tessuto ha funzioni di trasporto e assorbimento?",
+      "options": {
+        "A": "Nervoso.",
+        "B": "Connettivo.",
+        "C": "Epiteliale.",
+        "D": "Muscolare."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Pensa al tessuto che riveste superfici e cavità e che può scambiare sostanze con l'ambiente.",
+      "explanation": "Il tessuto epiteliale riveste superfici e cavità e svolge funzioni di assorbimento e trasporto selettivo, come nell'intestino e nei tubuli renali."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-02",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "number": 2,
+      "text": "Quale tessuto ha funzioni di sostegno e rinforzo?",
+      "options": {
+        "A": "Nervoso.",
+        "B": "Connettivo.",
+        "C": "Epiteliale.",
+        "D": "Muscolare."
+      },
+      "correct": "B",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Considera quale tessuto forma l'impalcatura di sostegno e collega le diverse strutture del corpo.",
+      "explanation": "Il tessuto connettivo sostiene, rinforza e collega organi e altri tessuti; la sua matrice extracellulare contribuisce alle proprietà meccaniche."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-03",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "number": 3,
+      "text": "Quale affermazione sul tessuto epiteliale è corretta?",
+      "options": {
+        "A": "Le cellule sono connesse.",
+        "B": "È presente una membrana basale.",
+        "C": "Si rinnova frequentemente.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Valuta separatamente le giunzioni cellulari, il rapporto con la membrana basale e la capacità di rinnovamento.",
+      "explanation": "Le cellule epiteliali sono strettamente unite, poggiano su una membrana basale e in molti epiteli si rinnovano frequentemente. Sono quindi vere tutte le affermazioni."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-04",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "number": 4,
+      "text": "Quante tipologie di tessuto epiteliale si conoscono?",
+      "options": {
+        "A": "Ghiandolare.",
+        "B": "Di rivestimento.",
+        "C": "Sensoriale.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Ricorda le categorie degli epiteli in base alla loro funzione: copertura, secrezione e ricezione di stimoli.",
+      "explanation": "Si distinguono epiteli di rivestimento, ghiandolari e sensoriali: tutte e tre le tipologie indicate sono riconosciute."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-05",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "number": 5,
+      "text": "Quale affermazione sul tessuto epiteliale è errata?",
+      "options": {
+        "A": "Può essere di tipo cilindrico.",
+        "B": "Può essere monostratificato.",
+        "C": "Non può essere di tipo cubico.",
+        "D": "Può essere pluristratificato."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Gli epiteli possono essere classificati sia per forma cellulare sia per numero di strati: individua l'affermazione che nega una forma nota.",
+      "explanation": "L'opzione C è quella errata: gli epiteli possono essere cubici. Possono anche essere cilindrici, monostratificati o pluristratificati."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-06",
+      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "number": 6,
+      "text": "Quale affermazione sul tessuto connettivo è corretta?",
+      "options": {
+        "A": "Non ha il compito di nutrire gli altri tessuti.",
+        "B": "È costituito solo da cellule.",
+        "C": "È costituito da una matrice e da cellule.",
+        "D": "Non ha funzioni di sostegno."
+      },
+      "correct": "C",
+      "answerSource": "highlight-fuchsia",
+      "verified": true,
+      "hint": "Nel connettivo, confronta le cellule con la sostanza extracellulare che le circonda.",
+      "explanation": "Il tessuto connettivo è formato da cellule immerse in una matrice extracellulare, che può variare per composizione e consistenza. Svolge anche funzioni di sostegno e nutrimento."
     }
   ]
 }
