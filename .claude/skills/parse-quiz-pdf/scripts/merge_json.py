@@ -52,7 +52,7 @@ def main():
     notes = load(a.notes, {}) if a.notes else {}
 
     slug = slugify(a.subject)
-    src_file = ext["file"].replace("\\", "/")
+    src_file = ext["file"].replace("\\", "/").replace("quiz/da-parsare/", "quiz/parsati/", 1)
     src_slug = slugify(os.path.splitext(os.path.basename(src_file))[0])
     os.makedirs(a.data_dir, exist_ok=True)
     path = os.path.join(a.data_dir, f"{slug}.json")

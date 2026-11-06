@@ -2,7 +2,7 @@
 
 Usage: python -I extract_pdf.py <pdf>   -> JSON on stdout
 
-Answer key lives in Highlight annotations: fuchsia = correct, orange = correct
+Answer key lives in Highlight annotations: fuchsia = correct, orange (or salmon) = correct
 only when no fuchsia highlight exists in that question.
 """
 import json
@@ -13,6 +13,7 @@ import pymupdf
 
 FUCHSIA = (0.753, 0.216, 0.769)
 ORANGE = (1.0, 0.384, 0.0)
+SALMON = (0.973, 0.392, 0.392)  # treated like orange (fallback answer)
 Q_RE = re.compile(r"^\s*(\d+)\.\s+(.*\S)\s*$")
 O_RE = re.compile(r"^\s*([A-D])\.\s+(.*\S)\s*$")
 SKIP_RE = re.compile(r"^\s*(Pagina \d+|Domande .*Corso .*|Ognuna delle domande.*|\.?)\s*$")
@@ -21,7 +22,7 @@ SKIP_RE = re.compile(r"^\s*(Pagina \d+|Domande .*Corso .*|Ognuna delle domande.*
 def color_name(stroke):
     if not stroke:
         return None
-    for name, ref in (("fuchsia", FUCHSIA), ("orange", ORANGE)):
+    for name, ref in (("fuchsia", FUCHSIA), ("orange", ORANGE), ("orange", SALMON)):
         if all(abs(a - b) < 0.02 for a, b in zip(stroke, ref)):
             return name
     return None

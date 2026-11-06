@@ -1,13 +1,13 @@
 # quizMCB
 
-Angular quiz app (`app/`) with questions imported from PDFs in `quiz/<Materia>/`.
+Angular quiz app (`app/`) with questions imported from PDFs in `quiz/da-parsare/<Materia>/` (to parse) and `quiz/parsati/<Materia>/` (already parsed, never put new PDFs there).
 Data lives in `app/public/data/<slug>.json` and `subjects.json`. UI text is in Italian.
 
 ## Importing questions
 
 - Use the `parse-quiz-pdf` skill (`.claude/skills/parse-quiz-pdf`). Always run the Python scripts with `python -I`.
 - Never edit question JSON by hand to add questions: go through `extract_pdf.py` then `merge_json.py`.
-- If the user pastes questions as text instead of a PDF, build a fake PDF in `quiz/<Materia>/` following the PDF conventions of the skill (numbered questions, options `A.`-`D.`, correct option highlighted in fuchsia), then parse it normally.
+- If the user pastes questions as text instead of a PDF, build a fake PDF in `quiz/da-parsare/<Materia>/` following the PDF conventions of the skill (numbered questions, options `A.`-`D.`, correct option highlighted in fuchsia), then parse it normally.
 - If the pasted text gives only the correct answer, write the three wrong options yourself, consistent with the correct letter.
 
 ## Hint and explanation (required for every question)

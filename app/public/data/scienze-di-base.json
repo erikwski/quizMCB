@@ -3,34 +3,46 @@
   "slug": "scienze-di-base",
   "sources": [
     {
-      "file": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "file": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "parsed": true,
       "parsedAt": "2026-10-16",
       "questionCount": 30
     },
     {
-      "file": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "file": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "parsed": true,
       "parsedAt": "2026-10-16",
       "questionCount": 30
     },
     {
-      "file": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "file": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "parsed": true,
       "parsedAt": "2026-10-16",
       "questionCount": 24
     },
     {
-      "file": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "file": "quiz/parsati/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
       "parsed": true,
       "parsedAt": "2026-10-18",
       "questionCount": 6
+    },
+    {
+      "file": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "parsed": true,
+      "parsedAt": "2026-11-06",
+      "questionCount": 20
+    },
+    {
+      "file": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "parsed": true,
+      "parsedAt": "2026-11-06",
+      "questionCount": 22
     }
   ],
   "questions": [
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-01",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 1,
       "text": "Di cosa si occupa l’apparato di Golgi?",
       "options": {
@@ -47,7 +59,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-02",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 2,
       "text": "Cosa contengono i lisosomi?",
       "options": {
@@ -64,7 +76,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-03",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 3,
       "text": "Che tipo di membrana hanno i cloroplasti?",
       "options": {
@@ -81,7 +93,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-04",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 4,
       "text": "Cosa contengono i mitocondri?",
       "options": {
@@ -98,7 +110,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-05",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 5,
       "text": "Cosa caratterizza la membrana interna dei mitocondri?",
       "options": {
@@ -115,7 +127,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-06",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 6,
       "text": "Quale struttura consente il movimento della cellula?",
       "options": {
@@ -132,7 +144,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-07",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 7,
       "text": "I microtubuli cellulari sono formati da:",
       "options": {
@@ -149,7 +161,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-08",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 8,
       "text": "Dove si trovano le ciglia cellulari?",
       "options": {
@@ -166,7 +178,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-09",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 9,
       "text": "Le giunzioni tipiche delle cellule vegetali sono dette:",
       "options": {
@@ -183,7 +195,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-10",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 10,
       "text": "Le giunzioni al livello intestinale sono di tipo:",
       "options": {
@@ -200,7 +212,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-11",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 11,
       "text": "Che tipo di permeabilità consente la membrana plasmatica?",
       "options": {
@@ -217,7 +229,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-12",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 12,
       "text": "Cosa può ancorarsi alla membrana?",
       "options": {
@@ -234,7 +246,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-13",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 13,
       "text": "La differenza di concentrazione di molecole è detta?",
       "options": {
@@ -251,7 +263,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-14",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 14,
       "text": "Non è un esempio di trasporto passivo:",
       "options": {
@@ -268,7 +280,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-15",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 15,
       "text": "Quale molecola passa per osmosi?",
       "options": {
@@ -285,7 +297,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-16",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 16,
       "text": "Con il termine pompa si indica:",
       "options": {
@@ -302,7 +314,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-17",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 17,
       "text": "Le proteine che attraversano totalmente la membrana sono dette:",
       "options": {
@@ -319,7 +331,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-18",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 18,
       "text": "Le giunzioni comunicanti si trovano soprattutto:",
       "options": {
@@ -336,7 +348,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-19",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 19,
       "text": "Quale affermazione sul desmosoma è sbagliata?",
       "options": {
@@ -353,7 +365,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-20",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 20,
       "text": "Di quanti gradi innalza la temperatura dell’acqua la caloria?",
       "options": {
@@ -370,7 +382,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-21",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 21,
       "text": "L’energia immagazzinata pronta a trasformarsi in azione è detta:",
       "options": {
@@ -387,7 +399,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-22",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 22,
       "text": "Con quale termine si indica il disordine in fisica?",
       "options": {
@@ -404,7 +416,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-23",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 23,
       "text": "Secondo quale legge della termodinamica l’energia non si crea e non si distrugge?",
       "options": {
@@ -421,7 +433,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-24",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 24,
       "text": "Una reazione che libera energia è detta?",
       "options": {
@@ -438,7 +450,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-25",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 25,
       "text": "L’energia necessaria per far partire una reazione metabolica è detta:",
       "options": {
@@ -455,7 +467,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-26",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 26,
       "text": "Cosa può influenzare una reazione enzimatica?",
       "options": {
@@ -472,7 +484,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-27",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 27,
       "text": "Dove si lega l’inibitore competitivo?",
       "options": {
@@ -489,7 +501,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-28",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 28,
       "text": "Che tipo di proteine possono essere presenti a livello della membrana?",
       "options": {
@@ -506,7 +518,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-29",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 29,
       "text": "Come è la soluzione quando la cellula si rigonfia?",
       "options": {
@@ -523,7 +535,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-bis-30",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 bis.pdf",
       "number": 30,
       "text": "Che funzioni svolge il NAD nella respirazione cellulare?",
       "options": {
@@ -540,7 +552,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-01",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 1,
       "text": "Quanti legami è in grado di formare il carbonio?",
       "options": {
@@ -557,7 +569,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-02",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 2,
       "text": "I legami che forma il carbonio sono principalmente di tipo:",
       "options": {
@@ -574,7 +586,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-03",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 3,
       "text": "Quale è il simbolo del gruppo ossidrilico?",
       "options": {
@@ -591,7 +603,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-04",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 4,
       "text": "Quale elemento è contenuto nel gruppo solfidrilico?",
       "options": {
@@ -608,7 +620,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-05",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 5,
       "text": "Quale elemento è contenuto nel gruppo fosfato?",
       "options": {
@@ -625,7 +637,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-06",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 6,
       "text": "Quando si parla di isomeri, una molecola è caratterizzata da:",
       "options": {
@@ -642,7 +654,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-07",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 7,
       "text": "Le reazioni con cui si formano i polimeri sono dette di:",
       "options": {
@@ -659,7 +671,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-08",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 8,
       "text": "Le reazioni con cui si scindono i polimeri sono dette di:",
       "options": {
@@ -676,7 +688,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-09",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 9,
       "text": "Quale tra questi elementi non è presente nei carboidrati?",
       "options": {
@@ -693,7 +705,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-10",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 10,
       "text": "Quale molecola si perde nella formazione di un disaccaride.",
       "options": {
@@ -710,7 +722,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-11",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 11,
       "text": "Da quali zuccheri è formato il lattosio?",
       "options": {
@@ -727,7 +739,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-12",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 12,
       "text": "Quale tra questi è uno zucchero di origine animale?",
       "options": {
@@ -744,7 +756,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-13",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 13,
       "text": "Da quanti acidi grassi sono formati i trigliceridi?",
       "options": {
@@ -761,7 +773,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-14",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 14,
       "text": "Gli acidi grassi con doppi legami sono detti:",
       "options": {
@@ -778,7 +790,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-15",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 15,
       "text": "Quali tra questi grassi hanno funzioni ormonali?",
       "options": {
@@ -795,7 +807,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-16",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 16,
       "text": "Quale tra queste sono funzioni delle proteine?",
       "options": {
@@ -812,7 +824,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-17",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 17,
       "text": "Come si chiama il gruppo R delle proteine?",
       "options": {
@@ -829,7 +841,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-18",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 18,
       "text": "La struttura globulare della proteina corrisponde a:",
       "options": {
@@ -846,7 +858,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-19",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 19,
       "text": "Cosa stabilizza la struttura terziaria delle proteine?",
       "options": {
@@ -863,7 +875,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-20",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 20,
       "text": "Da cosa è formato un nucleotide?",
       "options": {
@@ -880,7 +892,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-21",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 21,
       "text": "Quale è lo zucchero del DNA?",
       "options": {
@@ -897,7 +909,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-22",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 22,
       "text": "Quale RNA copia il DNA?",
       "options": {
@@ -914,7 +926,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-23",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 23,
       "text": "ATP sta per:",
       "options": {
@@ -931,7 +943,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-24",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 24,
       "text": "Quale di questi elementi non è presente nella cellula procariote?",
       "options": {
@@ -948,7 +960,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-25",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 25,
       "text": "Quale tra questi organismi fa parte dei procarioti?",
       "options": {
@@ -965,7 +977,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-26",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 26,
       "text": "Cosa può essere presente nella cellula procariote?",
       "options": {
@@ -982,7 +994,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-27",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 27,
       "text": "Cosa è presente prettamente nella cellula vegetale?",
       "options": {
@@ -999,7 +1011,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-28",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 28,
       "text": "In che modo il DNA è posto nel nucleo cellulare?",
       "options": {
@@ -1016,7 +1028,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-29",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 29,
       "text": "Come viene detto il reticolo endoplasmatico ruvido?",
       "options": {
@@ -1033,7 +1045,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-30",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026.pdf",
       "number": 30,
       "text": "Che funzioni svolge il REL?",
       "options": {
@@ -1050,7 +1062,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-01",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 1,
       "text": "Dove avviene la glicolisi?",
       "options": {
@@ -1067,7 +1079,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-02",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 2,
       "text": "Quale affermazione sulla glicolisi è errata?",
       "options": {
@@ -1084,7 +1096,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-03",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 3,
       "text": "Quale molecola è fondamentale per poter procedere con il ciclo di Krebs?",
       "options": {
@@ -1101,7 +1113,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-04",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 4,
       "text": "Dove avviene il ciclo di Krebs?",
       "options": {
@@ -1118,7 +1130,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-05",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 5,
       "text": "Quale affermazione sul Ciclo di Krebs è errata?",
       "options": {
@@ -1135,7 +1147,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-06",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 6,
       "text": "Quali trasportatori sono coinvolti nel ciclo di Krebs?",
       "options": {
@@ -1152,7 +1164,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-07",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 7,
       "text": "In quale fase della respirazione cellulare si producono molte molecole di ATP?",
       "options": {
@@ -1169,7 +1181,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-08",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 8,
       "text": "Quali ioni vengono trasportati per andare a formare ATP?",
       "options": {
@@ -1186,7 +1198,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-09",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 9,
       "text": "L'accettore finale degli elettroni nel ciclo di Krebs / respirazione è:",
       "options": {
@@ -1203,7 +1215,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-10",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 10,
       "text": "I prodotti di scarto del ciclo di Krebs sono:",
       "options": {
@@ -1220,7 +1232,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-11",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 11,
       "text": "La sintesi della ATP è detta:",
       "options": {
@@ -1237,7 +1249,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-12",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 12,
       "text": "Cosa può bloccare il processo di respirazione?",
       "options": {
@@ -1254,7 +1266,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-13",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 13,
       "text": "Quante molecole di ATP si producono in totale dalla respirazione cellulare?",
       "options": {
@@ -1271,7 +1283,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-14",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 14,
       "text": "L'etanolo è prodotto mediante:",
       "options": {
@@ -1288,7 +1300,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-15",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 15,
       "text": "Rappresenta un esempio di reazione anabolica:",
       "options": {
@@ -1305,7 +1317,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-16",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 16,
       "text": "Rappresenta un esempio di reazione catabolica:",
       "options": {
@@ -1322,7 +1334,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-17",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 17,
       "text": "Quale tra questi rappresenta il corretto livello di organizzazione gerarchica?",
       "options": {
@@ -1339,7 +1351,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-18",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 18,
       "text": "Quale muscolo separa la cavità toracica da quella addominale?",
       "options": {
@@ -1356,7 +1368,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-19",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 19,
       "text": "Quale piano taglia il corpo umano in parte anteriore e posteriore?",
       "options": {
@@ -1373,7 +1385,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-20",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 20,
       "text": "In un apparato:",
       "options": {
@@ -1390,7 +1402,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-21",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 21,
       "text": "Quale apparato/sistema è deputato alla funzione immunitaria?",
       "options": {
@@ -1407,7 +1419,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-22",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 22,
       "text": "Quale apparato/sistema è deputato alla funzione di nutrimento delle cellule?",
       "options": {
@@ -1424,7 +1436,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-23",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 23,
       "text": "Quali cellule staminali sono in grado di differenziarsi in ogni tipologia di linea cellulare?",
       "options": {
@@ -1441,7 +1453,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-marzo-2026-tris-24",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia marzo 2026 tris.pdf",
       "number": 24,
       "text": "Quante tipologie di tessuto sono comunemente analizzati?",
       "options": {
@@ -1458,7 +1470,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-01",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
       "number": 1,
       "text": "Quale tessuto ha funzioni di trasporto e assorbimento?",
       "options": {
@@ -1475,7 +1487,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-02",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
       "number": 2,
       "text": "Quale tessuto ha funzioni di sostegno e rinforzo?",
       "options": {
@@ -1492,7 +1504,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-03",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
       "number": 3,
       "text": "Quale affermazione sul tessuto epiteliale è corretta?",
       "options": {
@@ -1509,7 +1521,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-04",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
       "number": 4,
       "text": "Quante tipologie di tessuto epiteliale si conoscono?",
       "options": {
@@ -1526,7 +1538,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-05",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
       "number": 5,
       "text": "Quale affermazione sul tessuto epiteliale è errata?",
       "options": {
@@ -1543,7 +1555,7 @@
     },
     {
       "id": "scienze-di-base-domande-citologia-e-istologia-tessuti-06",
-      "source": "quiz/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia tessuti.pdf",
       "number": 6,
       "text": "Quale affermazione sul tessuto connettivo è corretta?",
       "options": {
@@ -1557,6 +1569,720 @@
       "verified": true,
       "hint": "Nel connettivo, confronta le cellule con la sostanza extracellulare che le circonda.",
       "explanation": "Il tessuto connettivo è formato da cellule immerse in una matrice extracellulare, che può variare per composizione e consistenza. Svolge anche funzioni di sostegno e nutrimento."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-01",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 1,
+      "text": "Quale affermazione sul tessuto epiteliale è corretta",
+      "options": {
+        "A": "Risulta formato da cellule molto connesse.",
+        "B": "Presenza di membrana basale.",
+        "C": "Assenza di vasi.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Considera le caratteristiche tipiche di un epitelio: come stanno le cellule tra loro, cosa c'è sotto, e se ci sono vasi.",
+      "explanation": "L'epitelio è fatto da cellule strettamente connesse, poggia su una membrana basale ed è avascolare (si nutre per diffusione dal connettivo sottostante): tutte le affermazioni sono corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-02",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 2,
+      "text": "Quante tipologie di tessuto epiteliali esistono?",
+      "options": {
+        "A": "1",
+        "B": "2.",
+        "C": "3.",
+        "D": "4"
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Oltre a rivestimento e secrezione, c'è una terza funzione specializzata: la percezione degli stimoli.",
+      "explanation": "Secondo la classificazione della fonte esistono tre tipologie di tessuto epiteliale: di rivestimento, ghiandolare e sensoriale (alcuni testi ne distinguono solo due, rivestimento e ghiandolare)."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-03",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 3,
+      "text": "Che tipologie di ghiandole ci sono a livello del tessuto epiteliali.",
+      "options": {
+        "A": "Esocrine.",
+        "B": "Esterne.",
+        "C": "Inattive.",
+        "D": "Dormienti."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Le ghiandole si distinguono in base a dove riversano il secreto.",
+      "explanation": "Le ghiandole epiteliali sono esocrine (secreto verso l'esterno o una cavità, tramite dotto) ed endocrine (nel sangue). Tra le opzioni solo 'esocrine' è un termine corretto."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-04",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 4,
+      "text": "Cosa contiene il tessuto connettivo?",
+      "options": {
+        "A": "Fibroblasti.",
+        "B": "Osteoblasti.",
+        "C": "Matrice.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il connettivo è composto da cellule e da materiale extracellulare: valuta se le opzioni sono tutte vere.",
+      "explanation": "Contiene cellule (fibroblasti, osteoblasti nel tessuto osseo) e matrice extracellulare: tutte le opzioni sono corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-05",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 5,
+      "text": "Quale elemento è molto presente nel tessuto connettivo?",
+      "options": {
+        "A": "Collagene.",
+        "B": "Acido jaluronico.",
+        "C": "Antiossidanti.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa alla proteina fibrosa più abbondante dell'organismo.",
+      "explanation": "Il collagene è la proteina più abbondante nel connettivo, a cui dà resistenza. L'acido ialuronico è un componente della sostanza fondamentale, non l'elemento predominante."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-06",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 6,
+      "text": "Il tessuto connettivo che si trova a livello dei tendini è detto:",
+      "options": {
+        "A": "Lasso.",
+        "B": "Adiposo.",
+        "C": "Sottocutaneo.",
+        "D": "Denso."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Nei tendini serve grande resistenza alla trazione: le fibre sono molte e ordinate?",
+      "explanation": "Nei tendini il connettivo è denso (regolare), con molte fibre collagene parallele. Il lasso ha poche fibre ed è più flessibile."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-07",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 7,
+      "text": "Quale fluido corporeo rientra nel tessuto connettivo:",
+      "options": {
+        "A": "Saliva.",
+        "B": "Lacrime.",
+        "C": "Sangue.",
+        "D": "Sudore."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Quale tra questi liquidi è un tessuto con cellule e matrice (plasma)?",
+      "explanation": "Il sangue è un tessuto connettivo con matrice liquida (plasma). Saliva, lacrime e sudore sono secrezioni ghiandolari."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-08",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 8,
+      "text": "Quali tra questi tessuti fa parte del tessuto connettivo:",
+      "options": {
+        "A": "Osseo.",
+        "B": "Cartilagine.",
+        "C": "Adiposo.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il connettivo comprende tessuti di sostegno e di riserva, oltre al sangue.",
+      "explanation": "Osseo, cartilagineo e adiposo sono tutti connettivi specializzati: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-09",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 9,
+      "text": "Da dove deriva il tessuto connettivo?",
+      "options": {
+        "A": "Midollo osseo.",
+        "B": "Midollo giallo.",
+        "C": "Mesenchima.",
+        "D": "Parenchima."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa all'embrione: da quale tessuto primitivo si formano i connettivi?",
+      "explanation": "Il connettivo deriva dal mesenchima embrionale (di origine mesodermica). Il midollo osseo è un tessuto adulto, non l'origine."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-10",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 10,
+      "text": "Che funzione ha il tessuto connettivo?",
+      "options": {
+        "A": "Consente lo scambio di nutrienti.",
+        "B": "Supporta la pelle.",
+        "C": "Difesa immunologica.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il connettivo ha molti ruoli: nutrimento, sostegno e difesa.",
+      "explanation": "Il connettivo permette scambi di nutrienti, sostiene i tessuti (anche la pelle) e svolge difesa immunitaria: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-11",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 11,
+      "text": "Come è composto il tessuto connettivo?",
+      "options": {
+        "A": "Cellule.",
+        "B": "Fibre.",
+        "C": "Sostanza fondamentale.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa ai tre componenti base di ogni tessuto connettivo.",
+      "explanation": "Il connettivo è formato da cellule, fibre e sostanza fondamentale amorfa: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-12",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 12,
+      "text": "Non sono cellule del tessuto connettivo:",
+      "options": {
+        "A": "Fibroblasti.",
+        "B": "Adipociti.",
+        "C": "Macrofagi.",
+        "D": "Neuroni."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Cerca la cellula che appartiene a un altro tessuto fondamentale.",
+      "explanation": "Fibroblasti, adipociti e macrofagi sono cellule del connettivo; i neuroni appartengono al tessuto nervoso."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-13",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 13,
+      "text": "Quale affermazione sui fibroblasti è sbagliata?",
+      "options": {
+        "A": "Sono cellule ubiquitarie.",
+        "B": "Sono cellule attive.",
+        "C": "Non producono collagene.",
+        "D": "Producono elastina."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Qual è il compito principale dei fibroblasti?",
+      "explanation": "I fibroblasti sono cellule attive e ubiquitarie che producono collagene ed elastina: l'affermazione 'non producono collagene' è sbagliata."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-14",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 14,
+      "text": "I fibroblasti intervengono anche in caso di:",
+      "options": {
+        "A": "Ferite.",
+        "B": "Patologie.",
+        "C": "Lesioni.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa al ruolo dei fibroblasti nella riparazione dei tessuti.",
+      "explanation": "I fibroblasti intervengono nella riparazione in caso di ferite, lesioni e patologie (cicatrizzazione): tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-15",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 15,
+      "text": "Cosa rilasciano i mastociti?",
+      "options": {
+        "A": "Adrenalina.",
+        "B": "Insulina.",
+        "C": "Istamina.",
+        "D": "Steroidi."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa alla molecola coinvolta nelle reazioni allergiche e infiammatorie.",
+      "explanation": "I mastociti rilasciano istamina (e altri mediatori) nelle risposte allergiche e infiammatorie."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-16",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 16,
+      "text": "Cosa producono le plasmacellule (o cellule del plasma)?",
+      "options": {
+        "A": "Linfociti B.",
+        "B": "Linfociti T.",
+        "C": "Anticorpi.",
+        "D": "Antiossidanti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Le plasmacellule derivano dai linfociti B e fanno parte della difesa umorale.",
+      "explanation": "Le plasmacellule sono linfociti B differenziati che producono anticorpi. Non producono linfociti."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-17",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 17,
+      "text": "Quale affermazione sul collagene è sbagliata?",
+      "options": {
+        "A": "Ne esistono oltre 20 tipologie.",
+        "B": "Non conferisce forza elastica.",
+        "C": "Ha caratteristiche acidofile.",
+        "D": "Viene prodotto come procollagene."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Ricorda cosa conferisce il collagene (resistenza alla trazione) e cosa l'elastina (elasticità).",
+      "explanation": "Secondo la fonte la risposta è B, ma il quesito è discutibile: Il collagene dà resistenza alla trazione e non elasticità (quella è dell'elastina).  A, C e D sono corrette (oltre 20 tipi, acidofilo, sintetizzato come procollagene)."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-18",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 18,
+      "text": "Dove si trova l’elastina?",
+      "options": {
+        "A": "Corde vocali.",
+        "B": "Aorta.",
+        "C": "Bronchi.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "L'elastina è nei tessuti che devono allungarsi e tornare alla forma originale.",
+      "explanation": "L'elastina si trova in corde vocali, aorta e bronchi, tutti tessuti elastici: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-19",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 19,
+      "text": "Dove si trovano le fibre reticolari?",
+      "options": {
+        "A": "Capillari.",
+        "B": "Nervi.",
+        "C": "Fibre muscolari.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Le fibre reticolari formano un'impalcatura sottile attorno a strutture delicate.",
+      "explanation": "Le fibre reticolari circondano capillari, nervi e fibre muscolari: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-20",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026.pdf",
+      "number": 20,
+      "text": "I glicosamminoglicani sono:",
+      "options": {
+        "A": "Catene di lipidi.",
+        "B": "Catene di polisaccaridi.",
+        "C": "Catene proteiche.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il nome contiene 'glicosammino-glicani': pensa agli zuccheri.",
+      "explanation": "I GAG sono lunghe catene non ramificate di polisaccaridi (disaccaridi ripetuti), componenti della sostanza fondamentale."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-01",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 1,
+      "text": "Da cosa sono formati i proteoglicani?",
+      "options": {
+        "A": "Collagene.",
+        "B": "Acido jaluronico.",
+        "C": "Elastina.",
+        "D": "Solfati."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa al polisaccaride a cui si legano le proteine centrali dei proteoglicani.",
+      "explanation": "I proteoglicani sono costituiti da un asse di acido ialuronico a cui si legano proteine con catene di GAG. Collagene ed elastina sono fibre."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-02",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 2,
+      "text": "Sono glicoproteine strutturali:",
+      "options": {
+        "A": "Fibrilline.",
+        "B": "Fibronectine.",
+        "C": "Laminina.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Le glicoproteine strutturali organizzano l'adesione tra cellule e matrice.",
+      "explanation": "Fibrilline, fibronectine e laminine sono glicoproteine strutturali della matrice extracellulare: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-03",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 3,
+      "text": "Quale affermazione sulla membrana basale è sbagliata?",
+      "options": {
+        "A": "Si trova tra epitelio e tessuto connettivo.",
+        "B": "Risulta formata da tre strati.",
+        "C": "Risulta formata da due strati.",
+        "D": "Prevede la presenza di una lamina densa."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Ricorda quanti strati compongono la membrana basale.",
+      "explanation": "La membrana basale è formata da tre strati (lamina lucida, lamina densa, lamina fibroreticolare), non due."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-04",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 4,
+      "text": "Che funzioni ha la membrana basale?",
+      "options": {
+        "A": "Supporto strutturale.",
+        "B": "Filtro.",
+        "C": "Differenziamento.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "La membrana basale ha più ruoli nel rapporto tra epitelio e connettivo.",
+      "explanation": "Offre supporto, funge da filtro (es. nel rene) e influenza il differenziamento cellulare: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-05",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 5,
+      "text": "Quale affermazione sul tessuto connettivo lasso è corretta?",
+      "options": {
+        "A": "Ha cellule poco visibili.",
+        "B": "Si trova a livello sottocutaneo.",
+        "C": "Non si trova a livello dei vasi.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il connettivo lasso ha poche fibre e molta sostanza fondamentale: dove si trova?",
+      "explanation": "Il connettivo lasso è presente nel sottocute e attorno a vasi e organi. Le cellule sono ben visibili."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-06",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 6,
+      "text": "Quale affermazione sul tessuto connettivo denso è sbagliata?",
+      "options": {
+        "A": "Ha un aspetto disordinato.",
+        "B": "Prevede poche fibre",
+        "C": "Si trova nel derma.",
+        "D": "Si trova nel periostio."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il connettivo denso si distingue dal lasso per la quantità di fibre.",
+      "explanation": "Il connettivo denso ha molte fibre collagene (derma, periostio, tendini); 'poche fibre' è errato."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-07",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 7,
+      "text": "Il tessuto denso regolare si trova:",
+      "options": {
+        "A": "Tendine.",
+        "B": "Legamenti.",
+        "C": "Tendini appiattiti.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Nel denso regolare le fibre sono ordinate e parallele.",
+      "explanation": "Il denso regolare costituisce tendini, legamenti e tendini appiattiti (aponeurosi): tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-08",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 8,
+      "text": "Dove di trova il tessuto connettivo reticolare?",
+      "options": {
+        "A": "Linfociti.",
+        "B": "Midollo osseo.",
+        "C": "Pancreas.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il reticolare forma l'impalcatura di organi emopoietici e linfoidi.",
+      "explanation": "Il tessuto reticolare si trova in organi linfoidi, midollo osseo e pancreas: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-09",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 9,
+      "text": "Quale affermazione sul tessuto adiposo è errata?",
+      "options": {
+        "A": "Costituisce un tessuto adiposo specializzato.",
+        "B": "Prevale la componente cellulare.",
+        "C": "Ne esiste una sola tipologia.",
+        "D": "Può essere anche di tipo multiloculare."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il tessuto adiposo non è uno solo: pensa ai colori.",
+      "explanation": "Esistono tessuto adiposo bianco e bruno (uniloculare e multiloculare): 'una sola tipologia' è errato."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-10",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 10,
+      "text": "Che funzione ha il tessuto connettivo?",
+      "options": {
+        "A": "Consente lo scambio di nutrienti.",
+        "B": "Supporta la pelle.",
+        "C": "Difesa immunologica.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il connettivo ha molti ruoli: nutrimento, sostegno e difesa.",
+      "explanation": "Il connettivo permette scambi di nutrienti, sostiene la pelle e difende l'organismo: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-11",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 11,
+      "text": "Cosa contiene il tessuto adiposo bianco?",
+      "options": {
+        "A": "Mitocondri.",
+        "B": "Colesterolo.",
+        "C": "Sostanza fondamentale.",
+        "D": "Trigliceridi."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa a cosa riempie la grande goccia dell'adipocita bianco.",
+      "explanation": "Gli adipociti bianchi accumulano trigliceridi in un'unica grande goccia lipidica."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-12",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 12,
+      "text": "Nell’adipocita bianco il nucleo è:",
+      "options": {
+        "A": "Assente.",
+        "B": "Ad una estremità.",
+        "C": "In zona centrale.",
+        "D": "Ce ne sono due."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "La goccia lipidica occupa quasi tutta la cellula: dove finisce il nucleo?",
+      "explanation": "Nell'adipocita bianco la goccia lipidica spinge il nucleo e il citoplasma in periferia (aspetto ad anello con castone)."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-13",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 13,
+      "text": "Che funzioni ha il tessuto adiposo bianco?",
+      "options": {
+        "A": "Isolante.",
+        "B": "Ammortizzatore.",
+        "C": "Riserva.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il grasso bianco ha più ruoli meccanici ed energetici.",
+      "explanation": "Il tessuto adiposo bianco isola termicamente, ammortizza e costituisce riserva energetica: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-14",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 14,
+      "text": "Quale affermazione sul tessuto adiposo bruno è errata?",
+      "options": {
+        "A": "Risulta ricco di mitocondri.",
+        "B": "Risulta ricco di vescicole.",
+        "C": "Accumula energia.",
+        "D": "Dissipa energia."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il grasso bruno ha una funzione opposta a quella del bianco.",
+      "explanation": "Il tessuto adiposo bruno è ricco di mitocondri e vescicole e dissipa energia in calore (termogenesi); accumulare energia è funzione del bianco."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-15",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 15,
+      "text": "Quali sono le cellule si occupano del tessuto osseo?",
+      "options": {
+        "A": "Osteoblasti.",
+        "B": "Osteoclasti.",
+        "C": "Osteociti.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Nel tessuto osseo ci sono cellule che formano, mantengono e demoliscono.",
+      "explanation": "Osteoblasti (formano), osteociti (mantengono) e osteoclasti (riassorbono) sono tutte cellule del tessuto osseo."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-16",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 16,
+      "text": "Quali sono le proteine coinvolte nel processo di contrazione muscolare?",
+      "options": {
+        "A": "Actina.",
+        "B": "Miosina.",
+        "C": "Troponina.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa ai filamenti sottili e spessi del sarcomero e alla proteina regolatrice.",
+      "explanation": "La contrazione coinvolge actina, miosina e troponina (con tropomiosina): tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-17",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 17,
+      "text": "Quante tipologie di tessuto muscolare esistono:",
+      "options": {
+        "A": "2.",
+        "B": "3.",
+        "C": "4.",
+        "D": "5."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa a scheletrico, cardiaco e...",
+      "explanation": "I tipi di tessuto muscolare sono tre: scheletrico striato, cardiaco striato e liscio."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-18",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 18,
+      "text": "I neuroni possono essere di tipo:",
+      "options": {
+        "A": "Sensoriale.",
+        "B": "Motorio.",
+        "C": "Interneurone.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Considera la direzione dell'impulso: verso il centro, dal centro e tra i neuroni.",
+      "explanation": "I neuroni possono essere sensoriali, motori o interneuroni: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-19",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 19,
+      "text": "Quali sono le cellule che danno sostegno ai neuroni?",
+      "options": {
+        "A": "Cellule mesenchimiali.",
+        "B": "Cellule della glia.",
+        "C": "Cellule dendritiche,",
+        "D": "Cellule assonali."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Non sono neuroni ma li supportano e nutrono.",
+      "explanation": "Le cellule della glia (astrociti, oligodendrociti, microglia ecc.) sostengono i neuroni."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-20",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 20,
+      "text": "Il meccanismo di comunicazione cellulare è detto di:",
+      "options": {
+        "A": "Amplificazione del segnale.",
+        "B": "Ramificazione del segnale.",
+        "C": "Trasduzione del segnale.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il segnale esterno viene convertito in risposta intracellulare.",
+      "explanation": "La trasduzione del segnale è il processo con cui una cellula converte un segnale in una risposta."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-21",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 21,
+      "text": "Come risponde una cellula ad un segnale?",
+      "options": {
+        "A": "Apre i canali ionici.",
+        "B": "Varia l’attività enzimatica.",
+        "C": "Attiva la trascrizione genica.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Una cellula può rispondere in più modi: pensa a canali, enzimi e geni.",
+      "explanation": "La cellula può aprire canali ionici, modulare l'attività enzimatica e attivare la trascrizione genica: tutte corrette."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-aprile-2026-bis-22",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia aprile 2026 bis.pdf",
+      "number": 22,
+      "text": "Quando la patologia tumorale rimane confinata in un tessuto è detta:",
+      "options": {
+        "A": "Inerte.",
+        "B": "Silente.",
+        "C": "Benigna.",
+        "D": "Maligna."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Un tumore che non invade i tessuti vicini né dà metastasi come si chiama?",
+      "explanation": "Un tumore confinato nel tessuto di origine, che non invade né metastatizza, è benigno."
     }
   ]
 }
