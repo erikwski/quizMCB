@@ -37,6 +37,12 @@
       "parsed": true,
       "parsedAt": "2026-11-06",
       "questionCount": 22
+    },
+    {
+      "file": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "parsed": true,
+      "parsedAt": "2026-11-08",
+      "questionCount": 22
     }
   ],
   "questions": [
@@ -2283,6 +2289,380 @@
       "verified": true,
       "hint": "Un tumore che non invade i tessuti vicini né dà metastasi come si chiama?",
       "explanation": "Un tumore confinato nel tessuto di origine, che non invade né metastatizza, è benigno."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-01",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 1,
+      "text": "La morte cellulare programmata è detta?",
+      "options": {
+        "A": "Caspasi.",
+        "B": "Apoptosi.",
+        "C": "Necrosi.",
+        "D": "Ligasi."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa a un processo attivo, geneticamente regolato, in cui la cellula 'sceglie' di morire senza infiammazione.",
+      "explanation": "L'apoptosi è la morte cellulare programmata. Le caspasi ne sono gli enzimi esecutori, non il processo; la necrosi è una morte accidentale e disordinata; le ligasi uniscono frammenti di DNA."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-02",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 2,
+      "text": "Chi studiò la trasmissione dei caratteri genetici?",
+      "options": {
+        "A": "Newton.",
+        "B": "Leonardo.",
+        "C": "Mendel.",
+        "D": "Linneo."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Fu un monaco agostiniano dell'Ottocento che incrociava piante nel giardino del convento.",
+      "explanation": "Gregor Mendel studiò la trasmissione dei caratteri ereditari e formulò le leggi che portano il suo nome. Newton è fisico, Leonardo artista e scienziato, Linneo ideò la classificazione dei viventi."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-03",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 3,
+      "text": "Su quale pianta furono svolti i primi esperimenti di genetica?",
+      "options": {
+        "A": "Mais.",
+        "B": "Piselli.",
+        "C": "Fagioli.",
+        "D": "Gigli."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pianta leguminosa facile da incrociare, con caratteri ben distinguibili come colore e forma del seme.",
+      "explanation": "Mendel usò il pisello (Pisum sativum): ciclo breve, molti discendenti, caratteri nettamente alternativi e possibilità di controllare impollinazione e incroci."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-04",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 4,
+      "text": "La legge che spiega la trasmissione indipendente di caratteri è detta:",
+      "options": {
+        "A": "Separazione.",
+        "B": "Segregazione.",
+        "C": "Differenziamento.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Ragiona su cosa accade agli alleli di una coppia quando si formano i gameti.",
+      "explanation": "La risposta della fonte è 'Segregazione': gli alleli di un gene si separano nei gameti. Nota: la trasmissione indipendente di più caratteri è propriamente la legge dell'assortimento indipendente (terza legge), ma si mantiene la risposta della fonte."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-05",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 5,
+      "text": "Le forme alternative di un gene sono dette:",
+      "options": {
+        "A": "Locus.",
+        "B": "Alleli.",
+        "C": "Gameti.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Un gene ha un posto fisso sul cromosoma, ma può presentarsi in versioni diverse.",
+      "explanation": "Gli alleli sono le forme alternative di uno stesso gene. Il locus è la posizione del gene sul cromosoma; i gameti sono le cellule riproduttive."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-06",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 6,
+      "text": "Come possono essere i fattori secondo Mendel",
+      "options": {
+        "A": "Solo dominanti.",
+        "B": "Solo recessivi.",
+        "C": "Dominanti e recessivi.",
+        "D": "Dominanti e recidivi."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Per Mendel un carattere può manifestarsi oppure restare nascosto in presenza dell'altra forma.",
+      "explanation": "I fattori (oggi alleli) possono essere dominanti, che si esprimono anche in singola copia, o recessivi, che si manifestano solo in doppia copia. 'Recidivi' non è un termine genetico."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-07",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 7,
+      "text": "Quando gli alleli sono differenti si parla di:",
+      "options": {
+        "A": "Eterozigosi.",
+        "B": "Omozigosi.",
+        "C": "Cariotipo.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa al prefisso 'etero-': i due alleli della coppia sono uguali o diversi?",
+      "explanation": "Un individuo con due alleli diversi per un gene è eterozigote (eterozigosi). L'omozigosi indica alleli uguali; il cariotipo è l'insieme dei cromosomi."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-08",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 8,
+      "text": "L’aspetto fisico di un soggetto è detto:",
+      "options": {
+        "A": "Cariotipo.",
+        "B": "Genotipo.",
+        "C": "Fenotipo.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Distingui ciò che si vede (caratteristiche osservabili) da ciò che è scritto nel DNA.",
+      "explanation": "Il fenotipo è l'insieme dei caratteri osservabili, risultato di genotipo e ambiente. Il genotipo è la costituzione genetica; il cariotipo è il corredo cromosomico."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-09",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 9,
+      "text": "Quale legge spiega l’ereditarietà di più caratteri?",
+      "options": {
+        "A": "Riproduzione asessuata.",
+        "B": "Assortimento indipendente.",
+        "C": "Assortimento casuale.",
+        "D": "Riproduzione indipendente."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Si tratta di più caratteri considerati insieme: si ereditano legati o ciascuno per conto proprio?",
+      "explanation": "La legge dell'assortimento indipendente (terza legge di Mendel) afferma che geni di caratteri diversi si distribuiscono nei gameti in modo indipendente. La riproduzione asessuata non è una legge mendeliana."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-10",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 10,
+      "text": "I risultati degli esperimenti di Mendel trovano conferma in:",
+      "options": {
+        "A": "Leggi di probabilità.",
+        "B": "Utilizzo del Quadrato di Punnett",
+        "C": "Calcoli relativi a fenotipo e genotipo.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Valuta ogni opzione: ciascuna è uno strumento che conferma o descrive i risultati di Mendel?",
+      "explanation": "I risultati di Mendel concordano con le leggi della probabilità, si prevedono con il quadrato di Punnett e si esprimono con rapporti fenotipici e genotipici. Quindi tutte le precedenti."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-11",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 11,
+      "text": "Nel caso di malattia autosomica recessiva, questa compare in un figlio se entrambi i genitori sono:",
+      "options": {
+        "A": "Recessivi.",
+        "B": "Dominanti omozigoti.",
+        "C": "Uno dominante omozigote e uno recessivo.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Una malattia recessiva richiede due copie dell'allele alterato: da chi arrivano?",
+      "explanation": "Una malattia autosomica recessiva compare solo in chi eredita l'allele alterato da entrambi i genitori. Il caso tipico della fonte è quello di genitori recessivi. Se un genitore è dominante omozigote trasmette sempre l'allele sano, quindi il figlio non si ammala."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-12",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 12,
+      "text": "Rappresenta un esempio di malattia autosomica recessiva:",
+      "options": {
+        "A": "Diabete.",
+        "B": "Anemia falciforme.",
+        "C": "Epilessia.",
+        "D": "Dermatite."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Cerca la malattia ereditaria del sangue legata a una mutazione dell'emoglobina.",
+      "explanation": "L'anemia falciforme è autosomica recessiva (mutazione del gene della beta-globina). Diabete, epilessia e dermatite sono multifattoriali o non classicamente mendeliane."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-13",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 13,
+      "text": "Quando un soggetto ha un fenotipo intermedio si parla di:",
+      "options": {
+        "A": "Dominanza completa",
+        "B": "Ammortizzatore.",
+        "C": "Dominanza incompleta.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Nessuno dei due alleli prevale del tutto: cosa ci si aspetta dal fenotipo?",
+      "explanation": "Nella dominanza incompleta l'eterozigote mostra un fenotipo intermedio tra i due omozigoti (es. fiori rosa da rosso e bianco). Nella dominanza completa si vede solo il carattere dominante."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-14",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 14,
+      "text": "Quando un gene ha più di un effetto sul fenotipo di parla di:",
+      "options": {
+        "A": "Atrofia.",
+        "B": "Atassia.",
+        "C": "Pleiotropia.",
+        "D": "Polimialgia."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il prefisso 'pleio-' richiama 'molteplice': un solo gene, molti effetti.",
+      "explanation": "La pleiotropia si ha quando un gene influenza più caratteri fenotipici. Atrofia, atassia e polimialgia sono condizioni cliniche, non fenomeni genetici di questo tipo."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-15",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 15,
+      "text": "Sono malattie trasmesse da mutazioni sul cromosoma X:",
+      "options": {
+        "A": "Cecità ai colori.",
+        "B": "Emofilia.",
+        "C": "Distrofia muscolare.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "D",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Valuta ogni malattia: sono tutte note per colpire soprattutto i maschi?",
+      "explanation": "Cecità ai colori (daltonismo), emofilia e distrofia muscolare (di Duchenne) sono recessive legate all'X. Tutte le precedenti."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-16",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 16,
+      "text": "La chimica che studia i composti a base carbonio è detta:",
+      "options": {
+        "A": "Inorganica.",
+        "B": "Organica.",
+        "C": "Biochimica.",
+        "D": "Tutte le precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Il carbonio è l'elemento base della vita e dei suoi composti.",
+      "explanation": "La chimica organica studia i composti del carbonio. L'inorganica studia gli altri composti; la biochimica studia i processi chimici degli esseri viventi."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-17",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 17,
+      "text": "In quale stato della materia si ha un volume definito ma non una forma?",
+      "options": {
+        "A": "Solido.",
+        "B": "Gassoso.",
+        "C": "Liquido.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Un fluido si adatta al contenitore ma non si comprime facilmente.",
+      "explanation": "Il liquido ha volume definito e forma del contenitore. Il solido ha volume e forma propri; il gas non ha né volume né forma definiti."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-18",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 18,
+      "text": "Quando due o più sostante pure sono presenti insieme si parla di",
+      "options": {
+        "A": "Miscele.",
+        "B": "Sostanze.",
+        "C": "Fluidi.",
+        "D": "Elementi."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Le sostanze pure mantengono la loro identità chimica quando vengono mescolate.",
+      "explanation": "L'unione di due o più sostanze pure senza reazione chimica è una miscela. Un composto invece si forma per legame chimico tra elementi."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-19",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 19,
+      "text": "I composti sono formati da:",
+      "options": {
+        "A": "Elementi.",
+        "B": "Gas.",
+        "C": "Cellule.",
+        "D": "Tessuti."
+      },
+      "correct": "A",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Un composto si può scomporre per via chimica in componenti più semplici: quali?",
+      "explanation": "I composti sono formati da due o più elementi legati chimicamente in proporzioni fisse (es. H2O da idrogeno e ossigeno)."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-20",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 20,
+      "text": "Quando in un miscuglio non distinguo le componenti è detto:",
+      "options": {
+        "A": "Eterogenei.",
+        "B": "Omogenei.",
+        "C": "Misti.",
+        "D": "Nessuna delle precedenti."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Se a occhio nudo vedo un solo aspetto uniforme, come si chiama la miscela?",
+      "explanation": "Una miscela omogenea ha composizione uniforme e componenti non distinguibili (es. acqua e sale). In una eterogenea le componenti sono distinguibili."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-21",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 21,
+      "text": "Le sostanze disciolte in acqua sono dette:",
+      "options": {
+        "A": "Solventi.",
+        "B": "Soluti.",
+        "C": "Miscugli.",
+        "D": "Soluzioni."
+      },
+      "correct": "B",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "In una soluzione distingui chi scioglie e chi viene sciolto.",
+      "explanation": "Il soluto è la sostanza disciolta; il solvente è il mezzo che scioglie (es. acqua); la soluzione è l'insieme dei due."
+    },
+    {
+      "id": "scienze-di-base-domande-citologia-e-istologia-maggio-2026-22",
+      "source": "quiz/parsati/Scienze di base/Domande Citologia e Istologia maggio 2026.pdf",
+      "number": 22,
+      "text": "Quale tra queste affermazioni sulle emulsioni è corretta?",
+      "options": {
+        "A": "Sono dispersioni di solido in un liquido.",
+        "B": "Sono dispersioni di liquidi in un solido.",
+        "C": "Sono dispersioni di liquidi in un liquido.",
+        "D": "Sono dispersioni di acqua in gel."
+      },
+      "correct": "C",
+      "answerSource": "highlight-orange",
+      "verified": true,
+      "hint": "Pensa a olio e acqua agitati con un tensioattivo: che stato hanno le due fasi?",
+      "explanation": "Un'emulsione è una dispersione di un liquido in un altro liquido non miscibile (es. latte, maionese). Solido in liquido è una sospensione."
     }
   ]
 }
